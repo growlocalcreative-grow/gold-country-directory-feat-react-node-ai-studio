@@ -1,0 +1,362 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+}
+.page-state {
+  max-width: 640px;
+  margin: 48px auto;
+  padding: 32px 20px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 180px;
+}
+.loading-mark {
+  width: 26px;
+  height: 26px;
+  border: 3px solid var(--line);
+  border-top-color: var(--green);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.messages {
+  width: 100%;
+}
+.message {
+  display: flex;
+  gap: 14px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.message button {
+  background: none;
+  border: 0;
+}
+.dashboard-row > div {
+  min-width: 0;
+}
+.dashboard-row small {
+  display: block;
+}
+.dashboard-row p {
+  overflow-wrap: anywhere;
+}
+.admin-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0;
+}
+.admin-tabs button {
+  padding: 9px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+  color: var(--green);
+}
+.admin-tabs button[aria-selected="true"] {
+  background: var(--green);
+  color: #fff;
+}
+.moderation-card {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--line);
+}
+.moderation-card:first-child {
+  padding-top: 0;
+}
+.moderation-card:last-child {
+  border-bottom: 0;
+}
+.moderation-title {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+.moderation-title h3 {
+  font-size: 17px;
+  color: var(--forest);
+}
+.moderation-fields {
+  margin: 12px 0;
+  display: grid;
+  grid-template-columns: minmax(100px, 140px) 1fr;
+  gap: 6px 16px;
+  font-size: 13px;
+}
+.moderation-fields dt {
+  font-weight: 600;
+  color: var(--green);
+}
+.moderation-fields dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+}
+.moderation-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+.moderation-actions .button {
+  padding: 7px 14px;
+}
+.status-label {
+  border-radius: 99px;
+  background: #eff3f0;
+  color: var(--green);
+  font-size: 12px;
+  padding: 3px 9px;
+  white-space: nowrap;
+}
+.status-pending {
+  background: #fff5d9;
+  color: #866300;
+}
+.status-rejected {
+  background: #fff1f0;
+  color: #912018;
+}
+.moderation-note {
+  margin-top: 12px;
+}
+.moderation-note textarea {
+  min-height: 66px;
+}
+.verify-checkbox {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin-top: 12px;
+  color: var(--ink);
+}
+.admin-tools {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.admin-filter {
+  margin-bottom: 18px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.admin-filter select,
+.admin-filter input {
+  padding: 9px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  max-width: 100%;
+}
+.map-link-panel {
+  padding: 24px;
+  background: #e9eeeb;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  text-align: center;
+  margin: 12px 0;
+}
+.map-link-panel a {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+}
+.scan-preview {
+  max-width: 100%;
+  max-height: 260px;
+  margin: 16px auto;
+  display: block;
+}
+.manual-scan-note {
+  margin-top: 16px;
+}
+.manual-scan-note p {
+  margin-bottom: 12px;
+}
+.detail-body .detail-section p {
+  white-space: pre-line;
+}
+.admin-empty {
+  padding: 30px 0;
+  color: var(--muted);
+}
+.admin-heading {
+  margin-bottom: 20px;
+}
+.inline-form {
+  display: inline;
+}
+.form-errors:focus {
+  outline: none;
+}
+.form-errors > p {
+  color: inherit;
+}
+.standard-form .form-errors {
+  margin-bottom: 16px;
+}
+.google-button {
+  cursor: pointer;
+}
+.auth-page #root {
+  min-height: 100vh;
+}
+.category-paging button {
+  display: flex;
+}
+.honeypot {
+  position: absolute !important;
+  left: -10000px !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+}
+.admin-users {
+  overflow-x: auto;
+}
+.admin-users table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.admin-users th,
+.admin-users td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+}
+.loading-mark {
+  flex: none;
+}
+.inline-success {
+  color: #22563b;
+  border: 1px solid #a7d4bb;
+  background: #e8f7ed;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+.detail-action-panel > .saved {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+.file-preview-label {
+  overflow-wrap: anywhere;
+  max-width: 100%;
+  padding: 0 10px;
+  text-align: center;
+}
+.form-field label small {
+  font-weight: normal;
+}
+.footer-copy {
+  overflow-wrap: anywhere;
+}
+.error-recovery {
+  padding: 40px 16px;
+  max-width: 680px;
+  margin: auto;
+}
+.error-recovery p {
+  margin: 15px 0;
+}
+.admin-tools input {
+  max-width: 100%;
+}
+.scan-panel .button {
+  margin-top: 16px;
+}
+@media (max-width: 1100px) {
+  .desktop-links {
+    gap: 10px;
+  }
+  .nav-search {
+    margin: 0;
+    max-width: 290px;
+  }
+  .desktop-links > a {
+    font-size: 12px;
+  }
+  .nav-inner {
+    gap: 14px;
+  }
+}
+@media (max-width: 700px) {
+  .moderation-fields {
+    grid-template-columns: 90px 1fr;
+  }
+  .moderation-title {
+    flex-wrap: wrap;
+  }
+  .admin-tools {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .admin-tabs {
+    gap: 6px;
+  }
+  .admin-tabs button {
+    font-size: 12px;
+    padding: 8px;
+  }
+  .page-state {
+    margin: 24px 16px;
+  }
+  .account-tools {
+    flex-wrap: wrap;
+  }
+  .dashboard-row .button {
+    max-width: 100%;
+  }
+  .moderation-actions .button {
+    flex: 1;
+  }
+  .form-field.field-city,
+  .form-field.field-address_state,
+  .form-field.field-address_zip {
+    vertical-align: top;
+  }
+  .messages {
+    margin: 12px auto;
+  }
+  .admin-users {
+    font-size: 12px;
+  }
+  .privacy-column {
+    overflow-wrap: anywhere;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .loading-mark {
+    animation: none;
+  }
+}
+.moderation-field-pair {
+  display: contents;
+}
+.auth-card .inline-success {
+  text-align: left;
+}
+.auth-card .form-errors p {
+  font-size: 13px;
+}
+.admin-tools + .panel p {
+  margin: 10px 0;
+}
+.contact-message-form {
+  margin-top: 24px;
+}

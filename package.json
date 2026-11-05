@@ -1,0 +1,61 @@
+{
+  "name": "gold-country-directory",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "dev": "tsx watch server/index.ts",
+    "start": "node dist/server/index.js",
+    "build": "vite build && tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p tsconfig.client.json",
+    "test": "tsx --test server/**/*.test.ts",
+    "db:migrate": "tsx server/cli.ts migrate",
+    "db:seed": "tsx server/cli.ts seed",
+    "admin": "tsx server/cli.ts admin",
+    "export": "tsx server/cli.ts export",
+    "import": "tsx server/cli.ts import",
+    "admin:production": "node dist/server/cli.js admin",
+    "format": "prettier --write server shared client index.html vite.config.ts tsconfig*.json"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^8.4.0",
+    "better-sqlite3": "^13.0.3",
+    "cheerio": "^1.2.0",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.3",
+    "express-session": "^1.19.0",
+    "google-auth-library": "^11.3.3",
+    "helmet": "^8.3.0",
+    "ipaddr.js": "^2.5.0",
+    "knex": "^3.3.0",
+    "lucide-react": "^1.69.0",
+    "multer": "^2.5.0",
+    "nodemailer": "^10.3.1",
+    "pg": "^8.23.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/express-session": "^1.19.0",
+    "@types/multer": "^2.3.0",
+    "@types/node": "^26.6.6",
+    "@types/nodemailer": "^8.0.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/supertest": "^7.2.1",
+    "@vitejs/plugin-react": "^6.2.1",
+    "prettier": "^3.9.10",
+    "supertest": "^7.3.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6"
+  }
+}

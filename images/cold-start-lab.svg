@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <!--
+    Cold Start Lab directory card. Client-maintained brand image referenced by
+    data/client-updates.json. Colors follow coldstartlab.com (forest greens,
+    warm paper, red/orange/yellow spark). The mark reproduces the owner's own
+    site icon (coldstartlab.com/icon.svg). Replace this file to change the image.
+  -->
+  <title id="title">Cold Start Lab</title>
+  <desc id="desc">Cold Start Lab: websites that help your business work better. Websites, online stores, connected tools and automation, ongoing support. El Dorado and Sacramento Region, remote projects welcome.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#244a37"/>
+      <stop offset="1" stop-color="#315b47"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b0000d"/>
+      <stop offset="0.55" stop-color="#ea6700"/>
+      <stop offset="1" stop-color="#ffc501"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="480" fill="url(#bg)"/>
+  <path d="M0 480 L420 480 L720 0 L300 0 Z" fill="#fffdf8" fill-opacity="0.04"/>
+  <g transform="translate(96 96) scale(5.44)">
+    <g transform="translate(0.62683512,0.65935087)">
+      <path fill="#fffdf8" d="M 12.602332,-0.65935087 10.069682,1.8732991 4.343375,7.5996054 -0.62683512,12.569815 V 39.028149 L 12.602332,52.257315 H 39.060665 L 52.289831,39.028149 v -7.07466 L 39.060665,18.724323 v 16.717073 l -3.586754,3.586753 H 17.893999 L 12.602332,33.736482 V 17.66069 l 4.955741,-5.090875 h 4.546633 l 10.801452,10e-7 -13.229167,-13.22916687 z"/>
+      <path fill="#b0000d" d="M 31.703647,-0.65935087 52.289831,19.926833 V 30.132637 L 21.497843,-0.65935087 Z"/>
+      <path fill="#fffdf8" d="m 18.408643,15.744816 h 14.84571 2.631311 v 2.631311 14.387957 l -3.077987,3.077987 H 18.906004 L 15.563578,32.499645 V 18.589881 Z"/>
+      <path fill="#ea6700" d="M 40.053872,-0.65935087 52.289831,11.576608 v 6.468818 L 33.585054,-0.65935087 Z"/>
+      <path fill="#ffc501" d="m 46.505278,-0.65935087 5.784553,5.78455297 v 4.543446 L 41.961832,-0.65935087 Z"/>
+    </g>
+  </g>
+  <g font-family="Inter, 'Plus Jakarta Sans', Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" fill="#fffdf8">
+    <text x="448" y="168" font-size="82" font-weight="700" letter-spacing="-1.5">Cold Start Lab</text>
+    <rect x="452" y="188" width="168" height="6" rx="3" fill="url(#spark)"/>
+    <text x="448" y="248" font-size="33" font-weight="500" fill="#e6ebdd">Websites that help your business work better.</text>
+    <text x="448" y="300" font-size="21" fill="#c9d4c6">Websites &amp; business tools · Online stores</text>
+    <text x="448" y="332" font-size="21" fill="#c9d4c6">Connected tools &amp; automation · Ongoing support</text>
+    <text x="448" y="384" font-size="20" fill="#aab5a3">El Dorado &amp; Sacramento Region · Remote projects welcome nationwide</text>
+    <text x="448" y="436" font-size="22" font-weight="600" fill="#ffc501">coldstartlab.com</text>
+  </g>
+</svg>

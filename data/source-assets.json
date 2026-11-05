@@ -1,0 +1,4717 @@
+[
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=3D+Tile&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f69",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.421398+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=3D+Tile&font=lato",
+    "sha256": "c910a52028730b673fe4c1a8d2569160b0fc78aedb6c8d636a10ae6abb7be0ea",
+    "bytes": 2477,
+    "local_url": "/static/source-assets/c910a52028730b673fe4c1a8.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=4F+Horseshoeing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bc02527ff41866e293497c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.426663+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=4F+Horseshoeing&font=lato",
+    "sha256": "513dcf531e6bc81dc74635e35330be2b8362c26984bcf2162bd6d032ec17fc08",
+    "bytes": 6193,
+    "local_url": "/static/source-assets/513dcf531e6bc81dc74635e3.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/16a085/ffffff?text=A+Positive+Balance",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69b74fc30d4752bd1ee4a00b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.427822+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/16a085/ffffff?text=A+Positive+Balance",
+    "sha256": "f13aca79db82ed332e8f2d5d4cc75f68578d8558517f50d251e34edf7c9aa716",
+    "bytes": 7013,
+    "local_url": "/static/source-assets/f13aca79db82ed332e8f2d5d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=AMS+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f07",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.428845+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=AMS+Service&font=lato",
+    "sha256": "fc04ce0f618949642a5479b5f37606f4f3807c904331d0b897603b9200044df2",
+    "bytes": 5115,
+    "local_url": "/static/source-assets/fc04ce0f618949642a5479b5.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=AP+Builders+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.429817+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=AP+Builders+Electric&font=lato",
+    "sha256": "bca33e813302eab18e7496916672d934ae45d6db18e47223538200a74f07ee68",
+    "bytes": 6640,
+    "local_url": "/static/source-assets/bca33e813302eab18e749691.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/0309cf7bd_logo.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69c6d656eb73d9cdf776cc06",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.430796+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/0309cf7bd_logo.png",
+    "sha256": "59aa3351a422d82a9e54e6ed5ec224cf7805167b071faf2bf209f428f0daeaed",
+    "bytes": 21075,
+    "local_url": "/static/source-assets/59aa3351a422d82a9e54e6ed.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Absolute+Interiors&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eb2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.431887+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Absolute+Interiors&font=lato",
+    "sha256": "ed322b676883bace14d3b6a2e24891e24a3ebed8ae31da6a610039c38881684f",
+    "bytes": 6625,
+    "local_url": "/static/source-assets/ed322b676883bace14d3b6a2.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Action+Mobile+Notary",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f1c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.432894+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Action+Mobile+Notary",
+    "sha256": "029f2885432b484eca51aff882631d801da97e17739ba91e400ba0ef5c1dba7a",
+    "bytes": 6577,
+    "local_url": "/static/source-assets/029f2885432b484eca51aff8.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/da41c12a4_629745513_122212608476278197_3415595799469513552_n.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69c6b9c4ba0618e9d76e50a1",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.785553+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/da41c12a4_629745513_122212608476278197_3415595799469513552_n.jpg",
+    "sha256": "9a835fad61498b7c3eea07e1ce08962e6d8ff913ee4107a88a7418d3b0d11550",
+    "bytes": 79003,
+    "local_url": "/static/source-assets/9a835fad61498b7c3eea07e1.jpg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/4185d4f4a_image.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "6a922f24b21f3f6f61b9e13d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.794199+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/4185d4f4a_image.jpg",
+    "sha256": "9e64469f7113e756333f02df717544eb2b5ea11636a79a4e68aaa571e840e8b4",
+    "bytes": 4201274,
+    "local_url": "/static/source-assets/9e64469f7113e756333f02df.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Aitken's+Pet+Grooming&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e5c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.816643+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Aitken's+Pet+Grooming&font=lato",
+    "sha256": "881e0d7ac65e79def1454edda989abc636bc19908056f5f1e735886b745a4cc5",
+    "bytes": 8149,
+    "local_url": "/static/source-assets/881e0d7ac65e79def1454edd.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Alisa+Brockman+Notary&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bc010e199f15032a916eb2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.828425+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Alisa+Brockman+Notary&font=lato",
+    "sha256": "c2ff5d0ec1c3a0c9561a794b02ce0c3d3eb54cb7a75f5fd3f4860362cbf67438",
+    "bytes": 7601,
+    "local_url": "/static/source-assets/c2ff5d0ec1c3a0c9561a794b.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=All+Season's+Pool%0aSupplies+%26+Repairs&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f44",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.852327+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=All+Season's+Pool%0aSupplies+%26+Repairs&font=lato",
+    "sha256": "361901a3428f1a0f07661817d90abe9bd89a8314bb63829e7741cfc26a172043",
+    "bytes": 14261,
+    "local_url": "/static/source-assets/361901a3428f1a0f07661817.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Alpine+Diesel%0aMobile+Mechanic&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e6f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:03.901097+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Alpine+Diesel%0aMobile+Mechanic&font=lato",
+    "sha256": "4ebbb3d08083d8414beb53dce27533b1b403814e6777cadad7201c9befab1437",
+    "bytes": 10573,
+    "local_url": "/static/source-assets/4ebbb3d08083d8414beb53dc.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/2c9fe54d5_sign5-green.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69c6d6d0582b8b99f3c63b71",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:45:39.962803+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/2c9fe54d5_sign5-green.jpg",
+    "sha256": "063dee55fd078779231a62c67833e4de9f9adbed7c5d62479bfa5e5a25d8d717",
+    "bytes": 23453932,
+    "local_url": "/static/source-assets/063dee55fd078779231a62c6.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=American+River%0aTree+Expert&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f72",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.154657+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=American+River%0aTree+Expert&font=lato",
+    "sha256": "f426a788dffb44cad0fa7ae5f202a7ef8652ddc3de45f67332a91413d1efed8c",
+    "bytes": 9059,
+    "local_url": "/static/source-assets/f426a788dffb44cad0fa7ae5.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Animal+Boarding+Facility&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e61",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.248234+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Animal+Boarding+Facility&font=lato",
+    "sha256": "86009d8c9c47681e3f721ea07b5abf8709d3157e01a00c3be639c3442dc87fcd",
+    "bytes": 8455,
+    "local_url": "/static/source-assets/86009d8c9c47681e3f721ea0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Arise+Shine+Cleaning&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e8b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.303523+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Arise+Shine+Cleaning&font=lato",
+    "sha256": "6b1516fb49f987bdfbddfb34b726cf75587a0a2f52db481b9e1682c78b12df41",
+    "bytes": 6266,
+    "local_url": "/static/source-assets/6b1516fb49f987bdfbddfb34.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Arnold's+Gutters%0aand+Handyman&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee4",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.344185+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Arnold's+Gutters%0aand+Handyman&font=lato",
+    "sha256": "1566df652311e1dfcab56fe0e06a4390380bc6780963567ab1baea7ddfa5785d",
+    "bytes": 10741,
+    "local_url": "/static/source-assets/1566df652311e1dfcab56fe0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Art+on+the+Divide&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69c1cfcbed145f2b14fbb928",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.481268+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Art+on+the+Divide&font=lato",
+    "sha256": "c06c048c94828d461161a1e1afd7de9ee9b2109c18cc4bedd74096a4000d3047",
+    "bytes": 5131,
+    "local_url": "/static/source-assets/c06c048c94828d461161a1e1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=As+You+Wish&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bcdce8282b4c483f412124",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.664163+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=As+You+Wish&font=lato",
+    "sha256": "5aed09a0b6755357baa15553d8a258fb36a093856dc7b9e3fa9e5950ed74b86e",
+    "bytes": 4007,
+    "local_url": "/static/source-assets/5aed09a0b6755357baa15553.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/public/6997983814388c257f6b043c/bb4af00cc_IMG_3895.jpeg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a5eb359e0deace03f57c2e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:04.919476+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/bb4af00cc_IMG_3895.jpeg",
+    "sha256": "b4b0bb285b29da82f4a94cc1d473b085088b33d0650fc0f117276987f800c428",
+    "bytes": 3351405,
+    "local_url": "/static/source-assets/b4b0bb285b29da82f4a94cc1.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=BJ+Pest+Control&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f29",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.057364+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=BJ+Pest+Control&font=lato",
+    "sha256": "7d0e94ef6783085fd20745bde58798414c5be38d7ef202bb18a79bcf75d3aa1e",
+    "bytes": 5420,
+    "local_url": "/static/source-assets/7d0e94ef6783085fd20745bd.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/1abc9c/ffffff?text=Backyard+Sawyer",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699facf0c12afbb5f8bd9db0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.129693+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/1abc9c/ffffff?text=Backyard+Sawyer",
+    "sha256": "1d60d8ca938db5f6b9310ec55eeb79ce3362ec97cd06923a568794c0c277b0c9",
+    "bytes": 6931,
+    "local_url": "/static/source-assets/1d60d8ca938db5f6b9310ec5.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Beatham's+Irrigation&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f3b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.369885+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Beatham's+Irrigation&font=lato",
+    "sha256": "892273f650639f4c8deb403845146de3f09578434931ed843ef2973286760679",
+    "bytes": 8570,
+    "local_url": "/static/source-assets/892273f650639f4c8deb4038.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bergman+Land+%26%0aBrush+Clearing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f11",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.381727+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bergman+Land+%26%0aBrush+Clearing&font=lato",
+    "sha256": "1917bfb05490a34b022407616bbbd1015c9e080a6cf4b7c6e692c0afaf4b90a8",
+    "bytes": 12671,
+    "local_url": "/static/source-assets/1917bfb05490a34b02240761.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Best+Spa+Repair&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f5a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.420497+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Best+Spa+Repair&font=lato",
+    "sha256": "1176539560458bd8f4f2d946c3caeb852ff4abc54f8fdaebeee8739d3b8d50a2",
+    "bytes": 7203,
+    "local_url": "/static/source-assets/1176539560458bd8f4f2d946.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Beto+Home+Consulting&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee6",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.593601+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Beto+Home+Consulting&font=lato",
+    "sha256": "64506a21e7369d8e1ec8fcffc7a660b368fbfd75bc70cf3e6b4c52ea40d3b19d",
+    "bytes": 7965,
+    "local_url": "/static/source-assets/64506a21e7369d8e1ec8fcff.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Beyond+Cool+Plumbing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f3c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.608210+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Beyond+Cool+Plumbing&font=lato",
+    "sha256": "54b2c30fefd8c9d3dcff279f65536027939959ee16a6ff6df3048251890a14a6",
+    "bytes": 7270,
+    "local_url": "/static/source-assets/54b2c30fefd8c9d3dcff279f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bill+Borden&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e90",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:05.990051+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bill+Borden&font=lato",
+    "sha256": "2cb7005896f0281855ca70693a207dfc570449bba201f251f3c7dd9fb8f16598",
+    "bytes": 3696,
+    "local_url": "/static/source-assets/2cb7005896f0281855ca7069.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/abf167881_IMG_5571.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "6a41c25389a883c40272b850",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.078450+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/abf167881_IMG_5571.png",
+    "sha256": "29faecb6049a420f9e3cb3eb29419ef5379096a7948a257236dd89a7e1927812",
+    "bytes": 1586234,
+    "local_url": "/static/source-assets/29faecb6049a420f9e3cb3eb.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Black+Oak+Animal+Hospital&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e5e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.265933+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Black+Oak+Animal+Hospital&font=lato",
+    "sha256": "789b1dd573deafd90f1eec138736fa54244205dc34b5819f786626c7152ce2cb",
+    "bytes": 8403,
+    "local_url": "/static/source-assets/789b1dd573deafd90f1eec13.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bletsch+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec6",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.463930+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bletsch+Electric&font=lato",
+    "sha256": "cc40813995c0ac96a226e7b80060cdd4c36fec85d909b372364a3ee86ec02923",
+    "bytes": 6028,
+    "local_url": "/static/source-assets/cc40813995c0ac96a226e7b8.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Blevins+Roofing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f53",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.638290+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Blevins+Roofing&font=lato",
+    "sha256": "da34b21de41f765b1d61db2e2665fc8f798ada92bfa6ee6d792ac8f9e3a3d174",
+    "bytes": 6115,
+    "local_url": "/static/source-assets/da34b21de41f765b1d61db2e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Blue+Curl+Pool+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f40",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.687333+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Blue+Curl+Pool+Service&font=lato",
+    "sha256": "521a40b49f3129d1c715a54e6976264175b2229d0ec220b6116bf0398396949c",
+    "bytes": 7208,
+    "local_url": "/static/source-assets/521a40b49f3129d1c715a54e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bob+Susic&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f70",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.751141+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bob+Susic&font=lato",
+    "sha256": "3c97a53715409a54f4b310124ab871aba665d723d81ee9e114d71e6eb3bccda0",
+    "bytes": 4578,
+    "local_url": "/static/source-assets/3c97a53715409a54f4b31012.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bobcat+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed7",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:06.932976+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bobcat+Services&font=lato",
+    "sha256": "d2f926c3194c34e619ec6d2dee16f88f8d8cc55a8a6144afadd221176bb1251c",
+    "bytes": 7425,
+    "local_url": "/static/source-assets/d2f926c3194c34e619ec6d2d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Boling+Enterprises&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f14",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.150246+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Boling+Enterprises&font=lato",
+    "sha256": "c72d2f280dc4ac4aa4747ae6873f2488a7aea4bc4b8d277feee833aa62f84422",
+    "bytes": 7610,
+    "local_url": "/static/source-assets/c72d2f280dc4ac4aa4747ae6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bright+Water%0aPool+%26+Spa+Care&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f42",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.222816+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Bright+Water%0aPool+%26+Spa+Care&font=lato",
+    "sha256": "719d5b0d05d1d5504345a9b38d8a1c839e91fe35a38098df518f7472bd188813",
+    "bytes": 11577,
+    "local_url": "/static/source-assets/719d5b0d05d1d5504345a9b3.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Burn+Days&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e55",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.321238+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Burn+Days&font=lato",
+    "sha256": "b31a10a51f7ae812b189fcab0d4eebe224b77787ed7e745fcdb54a80b864fdf2",
+    "bytes": 3667,
+    "local_url": "/static/source-assets/b31a10a51f7ae812b189fcab.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/18113f14b_image.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "6a9a408ccc3f70a1ce97d8de",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.529315+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/18113f14b_image.jpg",
+    "sha256": "9bba29a386b074efec1ce44919baecdf427918b08d8c29ccfa5e3dc369c5160f",
+    "bytes": 3457694,
+    "local_url": "/static/source-assets/9bba29a386b074efec1ce449.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Camco+Floors&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699f282a8cbbd9e9076b7b64",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.543957+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Camco+Floors&font=lato",
+    "sha256": "6a9065cc7fe0e83785e00a4cb1daf63220e8b6cc1e26b65242309249713ddfc4",
+    "bytes": 5037,
+    "local_url": "/static/source-assets/6a9065cc7fe0e83785e00a4c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Capital+Air+Systems&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e50",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.854315+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Capital+Air+Systems&font=lato",
+    "sha256": "5cb6339882dbb892b0a225e6437f8939710701bf461a7dea1f3ec656590a4215",
+    "bytes": 7945,
+    "local_url": "/static/source-assets/5cb6339882dbb892b0a225e6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cason+TreeWorks&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f77",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.867106+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cason+TreeWorks&font=lato",
+    "sha256": "04f457b0ebc19118ef501d1442b184c70d3457d9aa400aeb0f6caeec206b1420",
+    "bytes": 6682,
+    "local_url": "/static/source-assets/04f457b0ebc19118ef501d14.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Charlie+Koder+Photo&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f32",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:07.987784+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Charlie+Koder+Photo&font=lato",
+    "sha256": "d70bb98e799e43d047ea45f85065b11700dc9c86e1bee0d88d33a2a070572652",
+    "bytes": 4985,
+    "local_url": "/static/source-assets/d70bb98e799e43d047ea45f8.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Chiropractic+Care&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef8",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.037716+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Chiropractic+Care&font=lato",
+    "sha256": "40cae132292d9ec9f326a62ef02e66f8430bca0391cd3aa9d7ce2ca5a0b9274d",
+    "bytes": 7399,
+    "local_url": "/static/source-assets/40cae132292d9ec9f326a62e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Chris+Murphy+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86ea5",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.250101+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Chris+Murphy+Construction&font=lato",
+    "sha256": "b9a2acfe44ce48712d0f3ba96dd96efe5c7b84001a7bf714231040d85154789c",
+    "bytes": 8777,
+    "local_url": "/static/source-assets/b9a2acfe44ce48712d0f3ba9.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Christensen+Heating+&+Cooling&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e4f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.303784+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Christensen+Heating+&+Cooling&font=lato",
+    "sha256": "29ec03403b2ef5845047f252a36094953fd6f2bed8f76261656140d69e0eb44a",
+    "bytes": 6427,
+    "local_url": "/static/source-assets/29ec03403b2ef5845047f252.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Christina+Hartnell+Photo&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f2e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.424761+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Christina+Hartnell+Photo&font=lato",
+    "sha256": "7899d1f1d5c0653ef776949c1715689cee126d5f85a6ecbdb39df6e5ca7f8b48",
+    "bytes": 7744,
+    "local_url": "/static/source-assets/7899d1f1d5c0653ef776949c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Clear+It&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f0d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.515737+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Clear+It&font=lato",
+    "sha256": "11041f2438965ec16779a8260a13661c82b6f1598eab9dd294dc12720cd14d9f",
+    "bytes": 2983,
+    "local_url": "/static/source-assets/11041f2438965ec16779a826.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/public/6997983814388c257f6b043c/ea0a54d43_Workspaceevolution_fromchaostoorder.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a14ac00c472525c8f82f57",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.896636+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/ea0a54d43_Workspaceevolution_fromchaostoorder.png",
+    "sha256": "0179f0ec97ee8cc2085f81fc5918beec630caaafa9e38c457d4e66725adab20b",
+    "bytes": 1699092,
+    "local_url": "/static/source-assets/0179f0ec97ee8cc2085f81fc.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Colfax+Excavations&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed3",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:08.897651+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Colfax+Excavations&font=lato",
+    "sha256": "06bab3cf6fca3daf73bcf91d7e17e831a7dfb916729091af56ba891005609834",
+    "bytes": 7155,
+    "local_url": "/static/source-assets/06bab3cf6fca3daf73bcf91d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Coloma+Dental&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86efa",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.059892+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Coloma+Dental&font=lato",
+    "sha256": "518253f90513d9acb249e97cbdd13dff6d29317ca0d6ae31be9c8528644f4977",
+    "bytes": 5186,
+    "local_url": "/static/source-assets/518253f90513d9acb249e97c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Conforti+Plumbing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f3e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.103784+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Conforti+Plumbing&font=lato",
+    "sha256": "10e74ef6cdb594eff1a8d55224796dddaa768d9eab7c39bac59d4598fbe2eb1f",
+    "bytes": 6434,
+    "local_url": "/static/source-assets/10e74ef6cdb594eff1a8d552.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/1d0e1e4dd_inbound6614686615812041744.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69f75d47527564b352e79481",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.223723+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/1d0e1e4dd_inbound6614686615812041744.jpg",
+    "sha256": "7c230a0b20c394206f85697d1e1e0762ced7cf568477e869b5a22f8a907f2fb7",
+    "bytes": 169167,
+    "local_url": "/static/source-assets/7c230a0b20c394206f85697d.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Breeze+Pastries&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86edd",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.555358+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Breeze+Pastries&font=lato",
+    "sha256": "74e96ff455dda03c034686431feac4d7f2f21a15b1014ddc73506fbde6aeccf4",
+    "bytes": 8371,
+    "local_url": "/static/source-assets/74e96ff455dda03c03468643.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Care+Children's+Center&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e7b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.557767+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Care+Children's+Center&font=lato",
+    "sha256": "84b09c12ae3e4e0fc3858756cb62ba460785ac4734d1765102efdfdaf2bfdccd",
+    "bytes": 9725,
+    "local_url": "/static/source-assets/84b09c12ae3e4e0fc3858756.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+DJ+and%0aKaraoke+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ecb",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.573264+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+DJ+and%0aKaraoke+Service&font=lato",
+    "sha256": "5feacc80a784e777199b30d133a38a4a045d57dea407a448f67cb522ffa6e757",
+    "bytes": 9974,
+    "local_url": "/static/source-assets/5feacc80a784e777199b30d1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ebb",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:09.611034+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Electric&font=lato",
+    "sha256": "6e42768c26c52fa70135159a310404dfe653c87dab436969fa30f33cba6c5e33",
+    "bytes": 4496,
+    "local_url": "/static/source-assets/6e42768c26c52fa70135159a.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Family+Dentistry&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eba",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.140081+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Family+Dentistry&font=lato",
+    "sha256": "d46f82769313b4d0ef5feaf619fc8a6b4844c7e4a7236177448f75b7e4c362e2",
+    "bytes": 6875,
+    "local_url": "/static/source-assets/d46f82769313b4d0ef5feaf6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Florist+%26+Gifts&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86edb",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.189703+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Florist+%26+Gifts&font=lato",
+    "sha256": "e14738c445e08a71beaeb3999b2cf7a25af196ad73e4b3baca7f8d2ed4930dec",
+    "bytes": 7121,
+    "local_url": "/static/source-assets/e14738c445e08a71beaeb399.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Gym&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef3",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.325243+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Gym&font=lato",
+    "sha256": "1493df8d191a46f3a2741dab0d7f405d67cf5fc19482a828ee703ac40b2a9a35",
+    "bytes": 3226,
+    "local_url": "/static/source-assets/1493df8d191a46f3a2741dab.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Mobile%0aTax+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f68",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.572911+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Mobile%0aTax+Service&font=lato",
+    "sha256": "01cb0bfb8166e19ef7b9dc61ad98a00b5a2d6795555539bfe616bfc7a2dc8f61",
+    "bytes": 6420,
+    "local_url": "/static/source-assets/01cb0bfb8166e19ef7b9dc61.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Nails&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e71",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.610804+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Nails&font=lato",
+    "sha256": "93378b0bd32a13cda0fd5463183c751d809e97680fee2866cb30abde8295a0c5",
+    "bytes": 2832,
+    "local_url": "/static/source-assets/93378b0bd32a13cda0fd5463.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Post+Office&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f47",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.660411+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Post+Office&font=lato",
+    "sha256": "f902e7ec8489bb49a397de6926806dbf3f50a7968202be01d6b06ce95fde134b",
+    "bytes": 6239,
+    "local_url": "/static/source-assets/f902e7ec8489bb49a397de69.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Wicks+Candle+Co.&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f5b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.681139+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Wicks+Candle+Co.&font=lato",
+    "sha256": "8f62b42bec7d6e7e5b64126e3a25d9746dad198b1484c708852faf4883acefc6",
+    "bytes": 7839,
+    "local_url": "/static/source-assets/8f62b42bec7d6e7e5b64126e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Wire+Jewelry&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f5c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.695329+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cool+Wire+Jewelry&font=lato",
+    "sha256": "ba9ab568a518484231c2cdb674a943e47a919b1980a1372eeda30a83a308c379",
+    "bytes": 5779,
+    "local_url": "/static/source-assets/ba9ab568a518484231c2cdb6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Costa+Fencing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eef",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.705913+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Costa+Fencing&font=lato",
+    "sha256": "e104a3b880a0939484a21e8668a3d8cd0fcbb8723b4b3b14eb888e6bd931adae",
+    "bytes": 6447,
+    "local_url": "/static/source-assets/e104a3b880a0939484a21e86.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Country+Girl+Hair+Salon&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e75",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:10.876629+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Country+Girl+Hair+Salon&font=lato",
+    "sha256": "dbd6838504bff700305a3f805be004574feba500dd313605a090e15f639be4db",
+    "bytes": 7105,
+    "local_url": "/static/source-assets/dbd6838504bff700305a3f80.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Courtney+Hanson+Photo&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f2c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.016678+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Courtney+Hanson+Photo&font=lato",
+    "sha256": "89178c2f9b2f7b8edaef5a3c669cfbec3f8dd0d9321185bb4621d7a0eeef3cb4",
+    "bytes": 7243,
+    "local_url": "/static/source-assets/89178c2f9b2f7b8edaef5a3c.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/42a536cc4_IMG_8254.jpeg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bb7799a8922b934186ed6a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.087539+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/42a536cc4_IMG_8254.jpeg",
+    "sha256": "ad5cfde88b0cd4b323448fcd53bf8501958cca31d422a4ed32a5563c4a99c1ce",
+    "bytes": 125610,
+    "local_url": "/static/source-assets/ad5cfde88b0cd4b323448fcd.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Creature+Catchers&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f28",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.136442+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Creature+Catchers&font=lato",
+    "sha256": "b5b3a510f5d3d924dec9969f0e5181a030b2fd3e9340fa7f8370c5eeb6a69c67",
+    "bytes": 7772,
+    "local_url": "/static/source-assets/b5b3a510f5d3d924dec9969f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Critter+Care+on+The+Divide&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e57",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.173021+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Critter+Care+on+The+Divide&font=lato",
+    "sha256": "a185c4323757466e51b6abc639ca01e16c3fa7657e54a0b541c99d67ac219f16",
+    "bytes": 8320,
+    "local_url": "/static/source-assets/a185c4323757466e51b6abc6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Crowton's+Excavation%0a%26+Grading&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.228011+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Crowton's+Excavation%0a%26+Grading&font=lato",
+    "sha256": "8ea96d7b96c36ca26baf665d4917f5c99ccb89f530df92c3edbc08205d83573f",
+    "bytes": 12293,
+    "local_url": "/static/source-assets/8ea96d7b96c36ca26baf665d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Crystallized+Coven&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f5e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.357738+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Crystallized+Coven&font=lato",
+    "sha256": "3a2a35286f0ba110402e8958b0ff6690caffd84df1a9c7cc5ec1acb834e12375",
+    "bytes": 6684,
+    "local_url": "/static/source-assets/3a2a35286f0ba110402e8958.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cuts+by+Lexi&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e78",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.516020+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Cuts+by+Lexi&font=lato",
+    "sha256": "baf66d5c7dadecb52505ae0503a17a21a7f54e7a8ec4e4dc393413e28e16dbff",
+    "bytes": 4263,
+    "local_url": "/static/source-assets/baf66d5c7dadecb52505ae05.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=DMI+Pump+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f38",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.571554+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=DMI+Pump+Service&font=lato",
+    "sha256": "478b3d413ba84fc96cbb5c00749e0c74bcd3ef034399f2d2f7e524325b2d3b68",
+    "bytes": 5731,
+    "local_url": "/static/source-assets/478b3d413ba84fc96cbb5c00.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Daisy's+Dumpster&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f05",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.620681+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Daisy's+Dumpster&font=lato",
+    "sha256": "30c096315e9fa744b691ae373393c3851395e525eefc1b38bdd40292ee9f17f2",
+    "bytes": 6895,
+    "local_url": "/static/source-assets/30c096315e9fa744b691ae37.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Dale's+Handyman+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee5",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.658733+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Dale's+Handyman+Service&font=lato",
+    "sha256": "08d9d710f9341e5e3a03596fd0d226ac61b8fc590a5579c94003ba6cceee9f9d",
+    "bytes": 8848,
+    "local_url": "/static/source-assets/08d9d710f9341e5e3a03596f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Dan+Wetter+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e96",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.677229+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Dan+Wetter+Construction&font=lato",
+    "sha256": "7187969f99cf48c4ddceb9e61e1a445fb7b7e00f629ab43736a1e730b04613f8",
+    "bytes": 8492,
+    "local_url": "/static/source-assets/7187969f99cf48c4ddceb9e6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Dave's+Tree+Works&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f6d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.914440+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Dave's+Tree+Works&font=lato",
+    "sha256": "68cf14e369b6484f40b1c4aff12a992d50ea03a4a3b18fdbffbe86a1c49ed9cb",
+    "bytes": 6626,
+    "local_url": "/static/source-assets/68cf14e369b6484f40b1c4af.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Davis+Landscape+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed9",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:11.952214+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Davis+Landscape+Services&font=lato",
+    "sha256": "b2c9e7fd14d0f065f4846f216c3fdeae8428366efc4063f98b2679085299c33f",
+    "bytes": 10653,
+    "local_url": "/static/source-assets/b2c9e7fd14d0f065f4846f21.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/659764a9f_IMG_0181.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69f2f680413705f6a8efa3a0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.042136+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/659764a9f_IMG_0181.png",
+    "sha256": "3f0605837980289e8bd2086f672da008259471d7a2047015dccc7c3de44f4085",
+    "bytes": 384203,
+    "local_url": "/static/source-assets/3f0605837980289e8bd2086f.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Divide+Heat+and+Air&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e4e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.180088+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Divide+Heat+and+Air&font=lato",
+    "sha256": "d990568059b747bd03eef7c2bc61def0b1dfd377daa5361ce5aa23e0b2ef83f0",
+    "bytes": 6126,
+    "local_url": "/static/source-assets/d990568059b747bd03eef7c2.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Divide+Hoops&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f62",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.212708+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Divide+Hoops&font=lato",
+    "sha256": "969ed331370768897ff1ae6e37589be1f56f9baa08ea80448ccf2c877e420162",
+    "bytes": 4646,
+    "local_url": "/static/source-assets/969ed331370768897ff1ae6e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Divide+Repair&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e62",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.338871+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Divide+Repair&font=lato",
+    "sha256": "8421d480127cc2f381432bf9d91fdf3c2afcedb1f9ab029b3134da6d8b61c52f",
+    "bytes": 3996,
+    "local_url": "/static/source-assets/8421d480127cc2f381432bf9.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/public/6997983814388c257f6b043c/787e28bda_IMG_0545.jpeg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a1e3837917a61919754098",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.485954+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/787e28bda_IMG_0545.jpeg",
+    "sha256": "42ec7cdde3d2696309046816574869a2580cd0c78772ea4616700f0bad484a10",
+    "bytes": 330754,
+    "local_url": "/static/source-assets/42ec7cdde3d2696309046816.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Dogs+in+Balance",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69b72e6d25f4929271812147",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.568073+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Dogs+in+Balance",
+    "sha256": "05dab71cca8a21adf9d7cff5042f66ddcae8f584b65ad879fc5828911e52886c",
+    "bytes": 6940,
+    "local_url": "/static/source-assets/05dab71cca8a21adf9d7cff5.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/01c97e235_IMG_0681.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bb6daa1182070aa8a6438e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.618269+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/01c97e235_IMG_0681.png",
+    "sha256": "a70ba599ea6ff14dad72f585c56cd5504d987c91c2087e192b3cb216e5c40c7f",
+    "bytes": 1900606,
+    "local_url": "/static/source-assets/a70ba599ea6ff14dad72f585.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Donny+White&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.619177+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Donny+White&font=lato",
+    "sha256": "126e9e44c1f7977820109a795bda067ac089abb80f0426ccf919d9963673b904",
+    "bytes": 2956,
+    "local_url": "/static/source-assets/126e9e44c1f7977820109a79.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Double+C++Plumbing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f3a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.762085+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Double+C++Plumbing&font=lato",
+    "sha256": "8cb21226476f7b21d173111643f48cbea2c4f4786eb7dd8cd1b2f2703e1678e1",
+    "bytes": 6318,
+    "local_url": "/static/source-assets/8cb21226476f7b21d1731116.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=D'Angelo+Construction+Corp&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e99",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.781789+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=D'Angelo+Construction+Corp&font=lato",
+    "sha256": "cad41a90a999010b469a7ceddbc4f8a1bbdcc559dfa9f22c4a4f2c1c3db6ff68",
+    "bytes": 9597,
+    "local_url": "/static/source-assets/cad41a90a999010b469a7ced.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=EH+Fireplaces+and+Stoves&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e7d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:12.883076+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=EH+Fireplaces+and+Stoves&font=lato",
+    "sha256": "d7ef780974aa9bc793c8a2c0d9d2d64e518a8a1e9f43b4272666c9e3203d36ee",
+    "bytes": 8874,
+    "local_url": "/static/source-assets/d7ef780974aa9bc793c8a2c0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=EMF+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eb5",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.119928+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=EMF+Construction&font=lato",
+    "sha256": "118e24c2bdc469774f94909d2090dad341fc2bcefb586f00fbecdeccb8a5a5e2",
+    "bytes": 5491,
+    "local_url": "/static/source-assets/118e24c2bdc469774f94909d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=ER+ELECTRIC&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec7",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.370757+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=ER+ELECTRIC&font=lato",
+    "sha256": "82af19b74e919ad2c0b0dc76626330821a2bcf83e02eccb7965aad199a9c3741",
+    "bytes": 2713,
+    "local_url": "/static/source-assets/82af19b74e919ad2c0b0dc76.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=EXP+Realty+Real+Estate&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f52",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.460547+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=EXP+Realty+Real+Estate&font=lato",
+    "sha256": "6229ef2399a75143c4698766f25d63f91ae68803abcf027f74a7690bd62d6871",
+    "bytes": 7498,
+    "local_url": "/static/source-assets/6229ef2399a75143c4698766.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+County+Disposal&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86edf",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.523600+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+County+Disposal&font=lato",
+    "sha256": "d2208aeafb78f9f0ad70e6a7bb7818e4cf83fa38fac8d7bb0f09a507c861b7ec",
+    "bytes": 8452,
+    "local_url": "/static/source-assets/d2208aeafb78f9f0ad70e6a7.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+Handyman%0a%26+Landscaping&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee8",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.544852+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+Handyman%0a%26+Landscaping&font=lato",
+    "sha256": "9b101fc759460d15579e4a61aa85c0cd2b8ca29f894aaaf54e695f547b8d9b72",
+    "bytes": 12579,
+    "local_url": "/static/source-assets/9b101fc759460d15579e4a61.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+Plumbing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f35",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.710964+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+Plumbing&font=lato",
+    "sha256": "b9df44c2c8bcca7619c4b658fb0ac1bc155eccb31ede12dde525c3d916c026dd",
+    "bytes": 6246,
+    "local_url": "/static/source-assets/b9df44c2c8bcca7619c4b658.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+Weed+Control&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f0e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.742432+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=El+Dorado+Weed+Control&font=lato",
+    "sha256": "5e2e51ba7dd1748ced94471ce3e9ebcd8647aaaba6156a6d04464aa61221bd8e",
+    "bytes": 7332,
+    "local_url": "/static/source-assets/5e2e51ba7dd1748ced94471c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Electrician%0aWest+Coast+Voltage&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec3",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:13.892490+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Electrician%0aWest+Coast+Voltage&font=lato",
+    "sha256": "8eba3841ffed24bcf72d32c02d89e20be9a05d8d070b08f2edbf6fa67eaf61c4",
+    "bytes": 12597,
+    "local_url": "/static/source-assets/8eba3841ffed24bcf72d32c0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Farmers+Insurance:%0aAllison+Cooper&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86efd",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.004850+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Farmers+Insurance:%0aAllison+Cooper&font=lato",
+    "sha256": "edc9daadcc9c87d3f4f36e0dda511a43878981e3b723dee027741a04163806ea",
+    "bytes": 12540,
+    "local_url": "/static/source-assets/edc9daadcc9c87d3f4f36e0d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Feather+Dusters+Cleaning&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e85",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.073215+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Feather+Dusters+Cleaning&font=lato",
+    "sha256": "87b3377e54052282ea28854d457c0b5d0a95ebbb2b3a22c66962df8f23fe2567",
+    "bytes": 9747,
+    "local_url": "/static/source-assets/87b3377e54052282ea28854d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/008080/ffffff?text=Felisha+Goodanetz,+CMT",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a1ca1b5d2436f06b6cff6c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.416835+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/008080/ffffff?text=Felisha+Goodanetz,+CMT",
+    "sha256": "9b898a6ab337908d84a68a9c7b253b0a1ac9155adced67811ae8798dc273eb32",
+    "bytes": 8155,
+    "local_url": "/static/source-assets/9b898a6ab337908d84a68a9c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Foothill+Tree+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f79",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.516378+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Foothill+Tree+Service&font=lato",
+    "sha256": "b15613c1e4ad0984acf3b622ba116f6cfbcc9378e068440975ed9ced3439015f",
+    "bytes": 6693,
+    "local_url": "/static/source-assets/b15613c1e4ad0984acf3b622.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Four+Seasons+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86ea6",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.529229+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Four+Seasons+Construction&font=lato",
+    "sha256": "c266d1a79b5fc00d7227df7d347e241fa1bf857f2be8166faa5aaf2e0c7b972f",
+    "bytes": 10013,
+    "local_url": "/static/source-assets/c266d1a79b5fc00d7227df7d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Fuson+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ebe",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.622762+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Fuson+Electric&font=lato",
+    "sha256": "91bc4da811c8502f0f8733da7a3990ff932bcafae389a6564c1fb5cd951dd4a9",
+    "bytes": 4822,
+    "local_url": "/static/source-assets/91bc4da811c8502f0f8733da.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=G+%26+T+Truck+Repair&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f6b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.641392+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=G+%26+T+Truck+Repair&font=lato",
+    "sha256": "472d80eca4db7ad283b5e15e594f82c144b4f0de9bed35d2d8f917f8cbacc215",
+    "bytes": 5835,
+    "local_url": "/static/source-assets/472d80eca4db7ad283b5e15e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Garden+Valley%0aFlower+Farm&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f61",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.801821+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Garden+Valley%0aFlower+Farm&font=lato",
+    "sha256": "bc6928abdb0234ffa1b9c52e2f4bbbde9a6ef0a4f4f641dc873ed7f9f42bfcad",
+    "bytes": 8451,
+    "local_url": "/static/source-assets/bc6928abdb0234ffa1b9c52e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gary's+Wood+Works&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e95",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.805622+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gary's+Wood+Works&font=lato",
+    "sha256": "26383b98376c3dcb9de8ed88d57cf021eec849056040ddd192aab22d50ef67fd",
+    "bytes": 5157,
+    "local_url": "/static/source-assets/26383b98376c3dcb9de8ed88.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/b9bfa19b0_inbound7851601924533076397.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bdff13706b9125161c954d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.939373+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/b9bfa19b0_inbound7851601924533076397.jpg",
+    "sha256": "c2423bb610606aeb2b1f1b558290c9e614c9f6c508b4443211517c5f1162290b",
+    "bytes": 698321,
+    "local_url": "/static/source-assets/c2423bb610606aeb2b1f1b55.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Georgetown+Tractor&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed5",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.941700+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Georgetown+Tractor&font=lato",
+    "sha256": "3d05aaacb601701bb484b545e842c11fdf10b2aa96ffef61a623117f6e2e1838",
+    "bytes": 5935,
+    "local_url": "/static/source-assets/3d05aaacb601701bb484b545.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Goddards+Dump+Runs%0aand+Hauling&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f06",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.964378+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Goddards+Dump+Runs%0aand+Hauling&font=lato",
+    "sha256": "d5290399ff07d833c38c6de37c87ddb8f0e955f103115abced38efd3be3a6d5a",
+    "bytes": 11791,
+    "local_url": "/static/source-assets/d5290399ff07d833c38c6de3.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Godina+Construction,+Inc&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e9d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:14.968675+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Godina+Construction,+Inc&font=lato",
+    "sha256": "3fc23e29c6424cc901eabc74ff9d16c682de0aba96cc2e48e7488e7bd0321ba2",
+    "bytes": 8763,
+    "local_url": "/static/source-assets/3fc23e29c6424cc901eabc74.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gold+Country%0aGarage+Doors&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ede",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.431434+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gold+Country%0aGarage+Doors&font=lato",
+    "sha256": "a2d11e4904c6f24e619adf690d31cbf5b1ad87b6ad97c1040a42841ed2e09030",
+    "bytes": 10847,
+    "local_url": "/static/source-assets/a2d11e4904c6f24e619adf69.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gold+Country%0aTree+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f6f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.508908+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gold+Country%0aTree+Service&font=lato",
+    "sha256": "d49fe2e19eeb5c9adeb790fda4572fb49707fd2e2d9f4caf125ea91f0b6cadee",
+    "bytes": 7018,
+    "local_url": "/static/source-assets/d49fe2e19eeb5c9adeb790fd.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gold+Rush+Auto+Glass&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e6c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.511460+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gold+Rush+Auto+Glass&font=lato",
+    "sha256": "3eaa218085f6f9197c791b1d0944d30ce35583ed2aaa970d8a753edbe13cf0aa",
+    "bytes": 7479,
+    "local_url": "/static/source-assets/3eaa218085f6f9197c791b1d.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/b509f3e45_fulllogo.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69cb1f4a46c0cd4c866f4738",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.544823+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/b509f3e45_fulllogo.png",
+    "sha256": "200eb02dbcddb6e821c2e63dd7cf9d7c70341c547081779f35688b20ee217ff9",
+    "bytes": 120825,
+    "local_url": "/static/source-assets/200eb02dbcddb6e821c2e63d.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Granat+Custom+Cabinets&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e98",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.802805+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Granat+Custom+Cabinets&font=lato",
+    "sha256": "d38bfc15477a75446cf2d5149b0e7b2df6540eaf72436efa183614c426b24432",
+    "bytes": 9750,
+    "local_url": "/static/source-assets/d38bfc15477a75446cf2d514.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/16a085/ffffff?text=Grateful+Soul+Ink",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a5ec06c7926b2b9b1bd112",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.843830+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/16a085/ffffff?text=Grateful+Soul+Ink",
+    "sha256": "786169150017e22759e19fee75f8db1cb6395ef6b0f3e8183d2d8d2c7142711d",
+    "bytes": 5419,
+    "local_url": "/static/source-assets/786169150017e22759e19fee.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Green+Peach%0aLand+Management&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f13",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.877540+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Green+Peach%0aLand+Management&font=lato",
+    "sha256": "16e6023a5d98a38ad31ec919cb9d60838a068cc08580c11522586d077b21cfa2",
+    "bytes": 11879,
+    "local_url": "/static/source-assets/16e6023a5d98a38ad31ec919.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gromek+Tree+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f75",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:15.996369+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gromek+Tree+Services&font=lato",
+    "sha256": "e436dcd813e41c4a1da34c24b7133019ec98dc79c1c6a171cbbb78c1eaa59752",
+    "bytes": 8411,
+    "local_url": "/static/source-assets/e436dcd813e41c4a1da34c24.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/16a085/ffffff?text=Grow+Local+Creative",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69979d30ced61b41d81d77ff",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.020982+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/16a085/ffffff?text=Grow+Local+Creative",
+    "sha256": "023a2789b40737b411b7eb63a065705e401228e10e16fc119f71cf842c3de14c",
+    "bytes": 5430,
+    "local_url": "/static/source-assets/023a2789b40737b411b7eb63.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gutter+Clutter&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.058660+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Gutter+Clutter&font=lato",
+    "sha256": "7012f8bba9a3257cd7c2e1967cce1cfc771c13130d56d632a5456e278ca7404a",
+    "bytes": 5024,
+    "local_url": "/static/source-assets/7012f8bba9a3257cd7c2e196.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/7fa8e8c53_image.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "6a99b584763645b74f144567",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.083244+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/7fa8e8c53_image.jpg",
+    "sha256": "9fa4ce13b8063258ebb4d7d1234558659e5505a15d417812c2ad6b424835599e",
+    "bytes": 3381607,
+    "local_url": "/static/source-assets/9fa4ce13b8063258ebb4d7d1.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Handyman+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eee",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eed",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eea",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee9",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee7",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eec",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eeb",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.095062+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Handyman+Services&font=lato",
+    "sha256": "86bb58911267e7eb198ed4ff9fa8fef09ff18e01df8d46fcbf09fcd218513651",
+    "bytes": 8914,
+    "local_url": "/static/source-assets/86bb58911267e7eb198ed4ff.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/ef73a51ff_image.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "6a99b528f28bab3e951e6ab0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.160513+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/ef73a51ff_image.jpg",
+    "sha256": "9183bbe25c5e39f075053ca947078cfd1e1bad26bb7bc1d75f3a67806e972980",
+    "bytes": 3479378,
+    "local_url": "/static/source-assets/9183bbe25c5e39f075053ca9.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Hauling+%26+Clean+Ups&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f09",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.283144+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Hauling+%26+Clean+Ups&font=lato",
+    "sha256": "365770956d1ea5105da11d98e1432706b7a4f70218b14c141faac7c153952e45",
+    "bytes": 7666,
+    "local_url": "/static/source-assets/365770956d1ea5105da11d98.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Heirloom+Doula&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69be0db42d072a5857026e1a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.372147+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Heirloom+Doula&font=lato",
+    "sha256": "01a79e9206d90f5679a045a8ed4f5717f29bf09b31e821f57ae11bcbcd356b2a",
+    "bytes": 4487,
+    "local_url": "/static/source-assets/01a79e9206d90f5679a045a8.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Hendricks+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ebd",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.490085+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Hendricks+Electric&font=lato",
+    "sha256": "64e1b6be7a1bf8fe6979e504e7b806ae50f50b1004f2647ee435f09c74753097",
+    "bytes": 6561,
+    "local_url": "/static/source-assets/64e1b6be7a1bf8fe6979e504.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Heroic+IT+Solutions&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e8e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.494674+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Heroic+IT+Solutions&font=lato",
+    "sha256": "187772d79cf344cd0291a70456bddb2aa95bb06b40597a9f01ff5f55f2e31513",
+    "bytes": 6071,
+    "local_url": "/static/source-assets/187772d79cf344cd0291a704.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Highlands+Homestead%0aConstruction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e93",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.671697+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Highlands+Homestead%0aConstruction&font=lato",
+    "sha256": "5c3a760f6871ece28dd5dbd1a61a3544d8bc4d2c7eeab42184231fed6c809ede",
+    "bytes": 13386,
+    "local_url": "/static/source-assets/5c3a760f6871ece28dd5dbd1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Honey+Bee+and%0aSwarm+Removal&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f5d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.705659+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Honey+Bee+and%0aSwarm+Removal&font=lato",
+    "sha256": "71a19653da198aa7ef07f274a7be12e5ded8e739de42d474762706a0c1b470fa",
+    "bytes": 10607,
+    "local_url": "/static/source-assets/71a19653da198aa7ef07f274.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=House+Painting&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f24",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.918653+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=House+Painting&font=lato",
+    "sha256": "cb80f96f3eac219ef28329a00c3377571bfa2502839721d7add40b62e1e885fc",
+    "bytes": 6099,
+    "local_url": "/static/source-assets/cb80f96f3eac219ef28329a0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Ow+Can+I+Help+Tractor+Repair&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69c2f18b022df22624fbf6f2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.953861+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Ow+Can+I+Help+Tractor+Repair&font=lato",
+    "sha256": "4296f54f7bf26e311830968aeebb839babbb3918546f81b5d90da7048176f011",
+    "bytes": 8799,
+    "local_url": "/static/source-assets/4296f54f7bf26e311830968a.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/dc65b71b5_IMG_7151.jpeg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69c299b5e8c5aa06cd70c7cd",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:16.991857+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/dc65b71b5_IMG_7151.jpeg",
+    "sha256": "0ff16e9cce2b891b8cdec2df76a9d6992ebc72bed21317402a41920116cc679a",
+    "bytes": 2761393,
+    "local_url": "/static/source-assets/0ff16e9cce2b891b8cdec2df.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Insurance+Services%0aAtwood+Agency&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f02",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.109292+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Insurance+Services%0aAtwood+Agency&font=lato",
+    "sha256": "879008f1ab21d61512d6cc6d256994e5dea0c4dc9ec63bb47886807b5c3961eb",
+    "bytes": 13520,
+    "local_url": "/static/source-assets/879008f1ab21d61512d6cc6d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Iron+Works+Fitness&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.206331+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Iron+Works+Fitness&font=lato",
+    "sha256": "4308448e2b4e30d12f7e1af8fead6f4e6e9b0f067b18ff2f2c423f1dfe2d6fca",
+    "bytes": 6509,
+    "local_url": "/static/source-assets/4308448e2b4e30d12f7e1af8.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=JD\u2019s+Chimney+Sweep%0a%26+Repair&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e7c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:45:40.889365+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=JD%E2%80%99s+Chimney+Sweep%0a%26+Repair&font=lato",
+    "sha256": "d7c50107ff75f13a56b4f5bc172485c5198155c5d56e91cc423e08870df510b5",
+    "bytes": 11091,
+    "local_url": "/static/source-assets/d7c50107ff75f13a56b4f5bc.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=JFS+Fencing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.336889+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=JFS+Fencing&font=lato",
+    "sha256": "0b6a730a5712cad73af1480f0c60a74b70f4110981f2a1e590e46efeae00dab9",
+    "bytes": 4761,
+    "local_url": "/static/source-assets/0b6a730a5712cad73af1480f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=JM+Tractor+Works&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed4",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.395472+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=JM+Tractor+Works&font=lato",
+    "sha256": "304eb24d31e7aeefcf67c8f1ec4db427ebcd0444263c5414684997a2a1a12227",
+    "bytes": 5468,
+    "local_url": "/static/source-assets/304eb24d31e7aeefcf67c8f1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jasmine+Miller+Photo&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f2f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.736688+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jasmine+Miller+Photo&font=lato",
+    "sha256": "a02ab78fe9b2ce9a9970a1aa1b3822b9deb89a875b600a1b58286d1f2fc5a5c1",
+    "bytes": 6712,
+    "local_url": "/static/source-assets/a02ab78fe9b2ce9a9970a1aa.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jim+Parks+Photography&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f2b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.737859+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jim+Parks+Photography&font=lato",
+    "sha256": "fff8538e43f94410b48920492173cea2bd35e1b23afaaeb011082019c36c8f0b",
+    "bytes": 8150,
+    "local_url": "/static/source-assets/fff8538e43f94410b4892049.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jim+Williams+Trucking&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f7c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.791510+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jim+Williams+Trucking&font=lato",
+    "sha256": "19230672306a2617e4dbebd2264319581eb9501de90ca9c58b0e01516511e82b",
+    "bytes": 7209,
+    "local_url": "/static/source-assets/19230672306a2617e4dbebd2.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jon+O'Harra+Horseshoeing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86efc",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:17.997399+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Jon+O'Harra+Horseshoeing&font=lato",
+    "sha256": "ed5e0b324439ab84427e4ecb5f7b657b8ea82f55e3df6a55f6f9fc0cb04b5cf7",
+    "bytes": 9399,
+    "local_url": "/static/source-assets/ed5e0b324439ab84427e4ecb.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Juarez+All+Seasons%0aCleaning+Co&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e83",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.120575+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Juarez+All+Seasons%0aCleaning+Co&font=lato",
+    "sha256": "724fcfd9c5b091a915bf3461d029183662426681e014e46fa984e00a8b1b8e1f",
+    "bytes": 11838,
+    "local_url": "/static/source-assets/724fcfd9c5b091a915bf3461.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=K.M.+Notaries&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69b025953e25eaafec27ba43",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.123364+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=K.M.+Notaries&font=lato",
+    "sha256": "54d77847e9bf6e4fc1a877663ff8f54a837abff4d8dad44843f80822712c2ef1",
+    "bytes": 4920,
+    "local_url": "/static/source-assets/54d77847e9bf6e4fc1a87766.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=KB1+Engineering&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed1",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.164254+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=KB1+Engineering&font=lato",
+    "sha256": "b0441a40109d67db78fc81304fbbc80a30c5d0e5716d7a080b225f5d08fbbcdb",
+    "bytes": 6568,
+    "local_url": "/static/source-assets/b0441a40109d67db78fc8130.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/bc6247fa6_image.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "6a99b5d00c68a264a27e94db",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.203693+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/bc6247fa6_image.jpg",
+    "sha256": "f46c7380f0ec9ed1bc17cd726c966e3256b97800081b1a5852649a45c3241fce",
+    "bytes": 4716389,
+    "local_url": "/static/source-assets/f46c7380f0ec9ed1bc17cd72.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Keith+Williams&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec8",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.250256+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Keith+Williams&font=lato",
+    "sha256": "05a30ad141749952798880d08b3f7bff81fa2a9fb42cfd2a0e5abe5d4f8c926f",
+    "bytes": 5006,
+    "local_url": "/static/source-assets/05a30ad141749952798880d0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Kids+on+the+Divide",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a5b7cca12a90827634761e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.288022+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Kids+on+the+Divide",
+    "sha256": "f163c08e0fb98a43580184a0b854b4fe45e3a6eec5060463f7bb84133dcef794",
+    "bytes": 6089,
+    "local_url": "/static/source-assets/f163c08e0fb98a43580184a0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Kingdom+Coverings&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e9f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.368140+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Kingdom+Coverings&font=lato",
+    "sha256": "8805a823f45bed7d78a8ddbd5ac31569f375ca63ab692bc06d538e43e900f7e2",
+    "bytes": 8207,
+    "local_url": "/static/source-assets/8805a823f45bed7d78a8ddbd.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Kingdom+Welding&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bde96bc85d33e2374aedbf",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.393963+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Kingdom+Welding&font=lato",
+    "sha256": "ecf16e71722c374ba8429dfff48706f529246ea281f0fbc7c5a42b0c1e4676d5",
+    "bytes": 6985,
+    "local_url": "/static/source-assets/ecf16e71722c374ba8429dff.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Kirkson+Realty&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f4c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.528897+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Kirkson+Realty&font=lato",
+    "sha256": "741b0ce36b8548714e34e61b17b9455288278e0be911fdbb4c8ae025a8eee2b0",
+    "bytes": 5133,
+    "local_url": "/static/source-assets/741b0ce36b8548714e34e61b.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Klimate+King%0aHeating+%26+Air&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e53",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.671857+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Klimate+King%0aHeating+%26+Air&font=lato",
+    "sha256": "288911f0e9d1f19ac09105849e5de855fe76516c26ab5452ee66eb3abefd541e",
+    "bytes": 10289,
+    "local_url": "/static/source-assets/288911f0e9d1f19ac0910584.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lacey+Walker+Photo&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f33",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:18.676372+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lacey+Walker+Photo&font=lato",
+    "sha256": "2b2728d07331f4a2ad31aea77f16195978ab8e10810487b8cb70aa2b74040a66",
+    "bytes": 4792,
+    "local_url": "/static/source-assets/2b2728d07331f4a2ad31aea7.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lafaille+Dozer+%26%0aBackhoe+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed6",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.158600+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lafaille+Dozer+%26%0aBackhoe+Services&font=lato",
+    "sha256": "94952a2668e837ef41c8aa25e6df9a2a151c7f959fc3db6737b18dbcf0839a6c",
+    "bytes": 13009,
+    "local_url": "/static/source-assets/94952a2668e837ef41c8aa25.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lake's+Photography&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f2d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.184883+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lake's+Photography&font=lato",
+    "sha256": "b36a157d65daabac97b74202ee95b3d603d310a193f0fcb80f8860b78594cd44",
+    "bytes": 7364,
+    "local_url": "/static/source-assets/b36a157d65daabac97b74202.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Laser+Engraving%0aand+Custom+Art&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f5f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.297389+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Laser+Engraving%0aand+Custom+Art&font=lato",
+    "sha256": "21401dcac73972fb6de50252d21fa9f63ec151fb8dc759760601d7922c762a01",
+    "bytes": 12338,
+    "local_url": "/static/source-assets/21401dcac73972fb6de50252.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Last+Chance+Repair&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f17",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.367377+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Last+Chance+Repair&font=lato",
+    "sha256": "d71d957a49998e2b7a70c61d8125aa515c2bc1232efb4a45bf2c08ac6d0acb8d",
+    "bytes": 7685,
+    "local_url": "/static/source-assets/d71d957a49998e2b7a70c61d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Ledger+%26+Quill%0aBookkeeping",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699e5dfdd9f6ed2b68d40a2e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.425591+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/0d9488/ffffff?text=Ledger+%26+Quill%0aBookkeeping",
+    "sha256": "b1a02e1fd5d11411dc0fc1f97bc4f80e1bbcedd6b6aa25e8ec18679c49afabe9",
+    "bytes": 10940,
+    "local_url": "/static/source-assets/b1a02e1fd5d11411dc0fc1f9.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Leslie+Pool+Supplies&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f45",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.705889+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Leslie+Pool+Supplies&font=lato",
+    "sha256": "ab355dbe5700dd2ddcb68a11a2ccbf4cccaf3cb0ac380aa065ee92758a9c1ef3",
+    "bytes": 7410,
+    "local_url": "/static/source-assets/ab355dbe5700dd2ddcb68a11.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lily+Erwin&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f67",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.706092+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lily+Erwin&font=lato",
+    "sha256": "2ebdba7c65ffe88b27cf83f0434de11e4637bc34ec60e072f562842b8e2dd5db",
+    "bytes": 2300,
+    "local_url": "/static/source-assets/2ebdba7c65ffe88b27cf83f0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Dump+Runs&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f08",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.706294+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Dump+Runs&font=lato",
+    "sha256": "3eadcfb3a32041c745704d65702debd1b8224a51c84e3ee2a6523f54cdeef1c9",
+    "bytes": 5278,
+    "local_url": "/static/source-assets/3eadcfb3a32041c745704d65.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Loomis+Basin%0aEmergency+Vet&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e60",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.708660+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Loomis+Basin%0aEmergency+Vet&font=lato",
+    "sha256": "28017efcd68a9a11123f0b0947f99fac7715560c0e9b7adb4f3c5b00645900a9",
+    "bytes": 10790,
+    "local_url": "/static/source-assets/28017efcd68a9a11123f0b09.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lotus+Massage&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bcc8474982bc6810a1f633",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.771390+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Lotus+Massage&font=lato",
+    "sha256": "558cdb5da82b5787f097150dc0bdc251b6268e48ff33e1bddd71e26f9e0f36a8",
+    "bytes": 7143,
+    "local_url": "/static/source-assets/558cdb5da82b5787f097150d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Loves+Luxury+Rides&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f1b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.801945+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Loves+Luxury+Rides&font=lato",
+    "sha256": "5549f4a8e828456a110613f23437abd29be65c6c12d86d1cbc0a82d38c2486b3",
+    "bytes": 6076,
+    "local_url": "/static/source-assets/5549f4a8e828456a110613f2.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/e09a56bf1_481078988_10234995783611442_7453026078869114485_n.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f0b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:19.995628+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/e09a56bf1_481078988_10234995783611442_7453026078869114485_n.jpg",
+    "sha256": "9ddc0e60fcea821e25bc8b5327b576d3faafdf8415cbf6e383fd46b4f538aaa1",
+    "bytes": 165666,
+    "local_url": "/static/source-assets/9ddc0e60fcea821e25bc8b53.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mal's+Critter+Care&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e5a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.012541+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mal's+Critter+Care&font=lato",
+    "sha256": "a0a3bb556867cadc998beabdbfb40b6226df55725a2a5d1fc28097db058c65e2",
+    "bytes": 7007,
+    "local_url": "/static/source-assets/a0a3bb556867cadc998beabd.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Marriage+and%0aFamily+Therapist&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef7",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.075137+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Marriage+and%0aFamily+Therapist&font=lato",
+    "sha256": "6d6f3629527eb688cc07ca731d4264588fdc6d0563d18eaa85ada4427edae6fe",
+    "bytes": 11641,
+    "local_url": "/static/source-assets/6d6f3629527eb688cc07ca73.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Marshall+Metal+Arts&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f7f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.141043+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Marshall+Metal+Arts&font=lato",
+    "sha256": "83610c1e036679662afac6c6d23527f1593baa9c60b167e9314ed7a2cb889ea6",
+    "bytes": 6813,
+    "local_url": "/static/source-assets/83610c1e036679662afac6c6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mary+Kay+Cosmetics&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e77",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.147828+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mary+Kay+Cosmetics&font=lato",
+    "sha256": "5e1ac9d057e2b39804786293eda8511f922d74c79d3cac02070b766efcffb61d",
+    "bytes": 7837,
+    "local_url": "/static/source-assets/5e1ac9d057e2b39804786293.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mc+Ginnis+Lock+%26+Key&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f19",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.243281+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mc+Ginnis+Lock+%26+Key&font=lato",
+    "sha256": "bcec4fdfc579a58c0e4dfc54cbbc7464369cfc57b6ef012c76fdf010cced6c0b",
+    "bytes": 7014,
+    "local_url": "/static/source-assets/bcec4fdfc579a58c0e4dfc54.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Micah's+Rides+%26+Delivery&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f1a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.261080+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Micah's+Rides+%26+Delivery&font=lato",
+    "sha256": "1e59ef7ab3f003c4b67a381e5e78ccf23a8543e18482ab3de960c5a6883d746f",
+    "bytes": 9111,
+    "local_url": "/static/source-assets/1e59ef7ab3f003c4b67a381e.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/55f509f36_inbound3519732531759845598.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bcd59fa667cb910fbcd365",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.370480+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/55f509f36_inbound3519732531759845598.jpg",
+    "sha256": "839f78efa8c4ce95bbc9367b6b0d71d7e3d7a0a552dd0f2de7783d37ed775c36",
+    "bytes": 4792303,
+    "local_url": "/static/source-assets/839f78efa8c4ce95bbc9367b.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Pet+Sitting+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e5b",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e59",
+        "field": "image_url"
+      },
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e58",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.391295+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Pet+Sitting+Services&font=lato",
+    "sha256": "162d7f06b7352f3de44bc3f1e873540a4f15d0c6e3a03534ba7e89df9db9ef3a",
+    "bytes": 10422,
+    "local_url": "/static/source-assets/162d7f06b7352f3de44bc3f1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mobile+Notary+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f22",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.457721+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mobile+Notary+Services&font=lato",
+    "sha256": "016dd25ed0f6cd593bab95e11fb6c6328213f73f85758618851a0407eb0d1c41",
+    "bytes": 8350,
+    "local_url": "/static/source-assets/016dd25ed0f6cd593bab95e1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/1abc9c/ffffff?text=Mobile+Notary+and%0aLive+Scan+Fingerprinting",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699b26f9db5f2c4ea7702185",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.491615+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/1abc9c/ffffff?text=Mobile+Notary+and%0aLive+Scan+Fingerprinting",
+    "sha256": "a721b62a4014c93a6e7606337eb36570f7c6a35531f84c7698c72cb9bc948c31",
+    "bytes": 15178,
+    "local_url": "/static/source-assets/a721b62a4014c93a6e760633.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Moore+Mobile+Massage&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef6",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.554830+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Moore+Mobile+Massage&font=lato",
+    "sha256": "dca999cfbf44ef42f829dcf1fb356d0d611ab14039c6945f4841baa9eabb51de",
+    "bytes": 9326,
+    "local_url": "/static/source-assets/dca999cfbf44ef42f829dcf1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Morris+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ebf",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.668180+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Morris+Electric&font=lato",
+    "sha256": "a59a0b1f14b5a942ffe199ccdf7002e0ccadec43ef0ab443c78f87d53726d3aa",
+    "bytes": 5354,
+    "local_url": "/static/source-assets/a59a0b1f14b5a942ffe199cc.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mountain+Lake%0aCattle+Co.+LLC&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f66",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.746532+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mountain+Lake%0aCattle+Co.+LLC&font=lato",
+    "sha256": "8e873a7187d48c9a150a7d2a180f155de12a7e16219e684d0f3a4216eac2a95d",
+    "bytes": 9240,
+    "local_url": "/static/source-assets/8e873a7187d48c9a150a7d2a.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mountain+Momma+Custom+Designs&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bdec36ea99f04dc6466850",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.863057+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Mountain+Momma+Custom+Designs&font=lato",
+    "sha256": "67c8262848f76ad2bcb9f596888ea50132ae69fe88dba400cfbdd77ab1cf9ae1",
+    "bytes": 11929,
+    "local_url": "/static/source-assets/67c8262848f76ad2bcb9f596.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Murchies+Smog&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e70",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:20.996062+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Murchies+Smog&font=lato",
+    "sha256": "0d3a3fb8cfe23f205e99fd9dd7ce5ad985295f5730de9ca46f17b63e37db8043",
+    "bytes": 6431,
+    "local_url": "/static/source-assets/0d3a3fb8cfe23f205e99fd9d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Muscle+Up+Roofing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f54",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.041107+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Muscle+Up+Roofing&font=lato",
+    "sha256": "2d3d3e115ed17e0ef291d6f1781168477c05ecd3b3fe4cd947fb4985f961e8b0",
+    "bytes": 6910,
+    "local_url": "/static/source-assets/2d3d3e115ed17e0ef291d6f1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=My+Dad's+Cleaning+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e79",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.222937+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=My+Dad's+Cleaning+Service&font=lato",
+    "sha256": "74be5d5650bedf725111ad84a9e01754c549704d79aff171dc4b4cb41fe8b747",
+    "bytes": 10035,
+    "local_url": "/static/source-assets/74be5d5650bedf725111ad84.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=NV+excavation+LLC&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f15",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.321719+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=NV+excavation+LLC&font=lato",
+    "sha256": "df1abad7546ed0143eba1a0fb666a713fb02aad1119c31a2d45d5646b30b8cfc",
+    "bytes": 5610,
+    "local_url": "/static/source-assets/df1abad7546ed0143eba1a0f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=National+Hotline&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f3f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.362923+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=National+Hotline&font=lato",
+    "sha256": "c8646921012b34ce864dc7636f15e3cf99d88d974772150df15c4b2514656c19",
+    "bytes": 5182,
+    "local_url": "/static/source-assets/c8646921012b34ce864dc763.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Nicole+Allene+Photo&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f31",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.386155+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Nicole+Allene+Photo&font=lato",
+    "sha256": "fab737e9174707b591d9e535b35ce73ed295a2be80a9e5843aca5226f8f2c116",
+    "bytes": 5840,
+    "local_url": "/static/source-assets/fab737e9174707b591d9e535.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Nicole+Clinton+(Realtor)&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f4e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.477759+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Nicole+Clinton+(Realtor)&font=lato",
+    "sha256": "c012b3538202f7cd1bdeadd93a79a3650402f8192c15a06bb3de447a4cec6857",
+    "bytes": 7852,
+    "local_url": "/static/source-assets/c012b3538202f7cd1bdeadd9.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=No+Bull+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec5",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.634591+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=No+Bull+Electric&font=lato",
+    "sha256": "d05a6d5d9f446e7717b37ab5dbbfe115f60d57c28b781d081d98fe81c215c118",
+    "bytes": 4424,
+    "local_url": "/static/source-assets/d05a6d5d9f446e7717b37ab5.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/ea79d4396_CopyofODDITIESINKLOGO-3.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bc5ccfb8d22f21557f2f58",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.685236+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/ea79d4396_CopyofODDITIESINKLOGO-3.png",
+    "sha256": "6872427706b69f14e53972c1e1a6b73a71b7131c542ac4d4bfeee034f4f34bb5",
+    "bytes": 18870701,
+    "local_url": "/static/source-assets/6872427706b69f14e53972c1.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=O'Donnell+Insurance%0aServices&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f01",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.802809+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=O'Donnell+Insurance%0aServices&font=lato",
+    "sha256": "7e4cc9a0721bb09b71e7c730433be7e2853211aea064fb2a125c3052c40baeee",
+    "bytes": 7826,
+    "local_url": "/static/source-assets/7e4cc9a0721bb09b71e7c730.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Patti+Smith+Real+Estate&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f1f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.852276+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Patti+Smith+Real+Estate&font=lato",
+    "sha256": "2d6d57e5a5b62313f0cef3223c646adc83c011a6e728866349d69cc7982c99a5",
+    "bytes": 8574,
+    "local_url": "/static/source-assets/2d6d57e5a5b62313f0cef322.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pedri+Plumbing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f34",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:21.928837+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pedri+Plumbing&font=lato",
+    "sha256": "0ed1c0478fbcbdfd9c9a51f75924b071396f9bfc183e4ad8ce0c8cc8257a3f98",
+    "bytes": 5485,
+    "local_url": "/static/source-assets/0ed1c0478fbcbdfd9c9a51f7.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Plumb-Rite+Plumbing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f36",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.196593+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Plumb-Rite+Plumbing&font=lato",
+    "sha256": "3c0a106559ab402f122fa55edf3a7aa7b75579ba5f2c3056f3da95823791c622",
+    "bytes": 6742,
+    "local_url": "/static/source-assets/3c0a106559ab402f122fa55e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pollywog+Pools&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f41",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.262716+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pollywog+Pools&font=lato",
+    "sha256": "fa3e53b0b509fac4e3246d2fb01d4e31ebddb3818b8d09cfa2d7cdb10499c736",
+    "bytes": 5408,
+    "local_url": "/static/source-assets/fa3e53b0b509fac4e3246d2f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pony+Express+Pest+Control&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69be0b37814f6198b20da929",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.308112+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pony+Express+Pest+Control&font=lato",
+    "sha256": "22dd6a42c89fe04d6d2dd3f33599b296a686ed0093fafc1769b25218308a7538",
+    "bytes": 8911,
+    "local_url": "/static/source-assets/22dd6a42c89fe04d6d2dd3f3.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Popa's+Pools&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f43",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.456162+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Popa's+Pools&font=lato",
+    "sha256": "631c4a5bc1969c2da7e305623580f89c2dcac206951f9d61cb42ea3fa64ff3f9",
+    "bytes": 5040,
+    "local_url": "/static/source-assets/631c4a5bc1969c2da7e30562.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pops+Electrical+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.467179+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pops+Electrical+Service&font=lato",
+    "sha256": "81d86310691d1d93111768e6e17fad352ceef37e019ba6fa0e4dbc265adde2de",
+    "bytes": 8873,
+    "local_url": "/static/source-assets/81d86310691d1d93111768e6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tim+Crews%0aPrecision+Concrete&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86ea3",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.604435+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tim+Crews%0aPrecision+Concrete&font=lato",
+    "sha256": "c18c153f87c2b1b26db22bad8a81e507e08a4410fc2fcd85068187eb4e35ac01",
+    "bytes": 11334,
+    "local_url": "/static/source-assets/c18c153f87c2b1b26db22bad.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Premier+Foothill%0aProperties&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f4f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.785514+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Premier+Foothill%0aProperties&font=lato",
+    "sha256": "c120c6de89ab73c6c7626caa6592f2359844e81b29fc585ef500831c679baa3a",
+    "bytes": 9274,
+    "local_url": "/static/source-assets/c120c6de89ab73c6c7626caa.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Prime+Cut+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86ea4",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:22.823133+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Prime+Cut+Construction&font=lato",
+    "sha256": "f2a0be92ca0aab5c21176efb7cf75d381259c8bc1203e2d8e092b015c51ca954",
+    "bytes": 7934,
+    "local_url": "/static/source-assets/f2a0be92ca0aab5c21176efb.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Proper+General%0aEngineering+INC&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f12",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.006111+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Proper+General%0aEngineering+INC&font=lato",
+    "sha256": "cf6edae7048f374e2adfa4f8061c1dcef9a156faebefb95b243fa2d3d269609f",
+    "bytes": 11637,
+    "local_url": "/static/source-assets/cf6edae7048f374e2adfa4f8.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pruvit+Life+Vantage&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef5",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.091993+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pruvit+Life+Vantage&font=lato",
+    "sha256": "b1b33b077db86259d4037afed94f6afbcbb73724f35f522ea91aba1e7def43a3",
+    "bytes": 7013,
+    "local_url": "/static/source-assets/b1b33b077db86259d4037afe.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pure+Water&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f64",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.215460+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Pure+Water&font=lato",
+    "sha256": "1354f784fa2a486c52b9c42de78504af296a85a296dabc279e171a35a9b65a45",
+    "bytes": 4159,
+    "local_url": "/static/source-assets/1354f784fa2a486c52b9c42d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Quality+First+Logistics%0aJunk+Car+Removal&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f03",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.430417+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Quality+First+Logistics%0aJunk+Car+Removal&font=lato",
+    "sha256": "c7ad108eee136c9fd84e696990b2c37e792a95911424436dca4abbbbbb196cb4",
+    "bytes": 14365,
+    "local_url": "/static/source-assets/c7ad108eee136c9fd84e6969.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Realty+One+Group&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f4a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.517871+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Realty+One+Group&font=lato",
+    "sha256": "08f1c40a0a32fce195092ac1f9c26710691b177121c11d523fea03a0bf50065c",
+    "bytes": 5948,
+    "local_url": "/static/source-assets/08f1c40a0a32fce195092ac1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Residential+Real%0aEstate+Appraiser&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f4d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.604436+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Residential+Real%0aEstate+Appraiser&font=lato",
+    "sha256": "e5a6f6dabe338e2cac9f31d47182e53eba436e13bba3e1723ec436958cdf3806",
+    "bytes": 13773,
+    "local_url": "/static/source-assets/e5a6f6dabe338e2cac9f31d4.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Retrospect+Images&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f30",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.792597+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Retrospect+Images&font=lato",
+    "sha256": "53a3344a1458f20b56ff53b3e776b68463c2e3971fd8af59273d4a79d4898f08",
+    "bytes": 8658,
+    "local_url": "/static/source-assets/53a3344a1458f20b56ff53b3.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Reynold's+Custom%0aWoodwork&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e97",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:23.803869+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Reynold's+Custom%0aWoodwork&font=lato",
+    "sha256": "c470381e5ea5f5222ae56eb8966d08c1307ff587d1353f924206ac460d6739bb",
+    "bytes": 9669,
+    "local_url": "/static/source-assets/c470381e5ea5f5222ae56eb8.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/8dba7bd2d_MEDWITHNUMBER-Black.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bf14c6a0f2917b15dc912c",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.108499+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/8dba7bd2d_MEDWITHNUMBER-Black.png",
+    "sha256": "e98a2d6c764aedad77e27f9cfa18941894262d4aa6f39c75404cbcfc4d3858dc",
+    "bytes": 58652,
+    "local_url": "/static/source-assets/e98a2d6c764aedad77e27f9c.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Riptide+Pool&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f46",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.277553+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Riptide+Pool&font=lato",
+    "sha256": "f65fb788d02108e4fa7810b283e23d6cb452e39b1013bc518496d32dca0fa2ae",
+    "bytes": 4462,
+    "local_url": "/static/source-assets/f65fb788d02108e4fa7810b2.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Robert+Lenoil%0aInsurance+Agency&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f00",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.312589+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Robert+Lenoil%0aInsurance+Agency&font=lato",
+    "sha256": "428774b18d5b4aa3b373648ccd7efef12ff8b3a6bf220d5d0ad471d92d54c004",
+    "bytes": 11158,
+    "local_url": "/static/source-assets/428774b18d5b4aa3b373648c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Round+Tuit%0aHeating+and+Air&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e54",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.662653+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Round+Tuit%0aHeating+and+Air&font=lato",
+    "sha256": "0a897bab087f8062598ab79064e91e534088d094e46daaf1429887aba299e6a7",
+    "bytes": 8686,
+    "local_url": "/static/source-assets/0a897bab087f8062598ab790.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Royal+Septic&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f58",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.672691+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Royal+Septic&font=lato",
+    "sha256": "bc91a87c16e976ec72aab021f2e34a54310f607d16c46a615e509510ca2862c6",
+    "bytes": 5335,
+    "local_url": "/static/source-assets/bc91a87c16e976ec72aab021.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Russell+Leather+Co&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bc6fd5ced04ec3c171322e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.741973+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Russell+Leather+Co&font=lato",
+    "sha256": "cab164892296b183604400d4974d089b9450629a5e92ee42cb9f4bd2f752a235",
+    "bytes": 6812,
+    "local_url": "/static/source-assets/cab164892296b183604400d4.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Ryan+Auker&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f0f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.795336+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Ryan+Auker&font=lato",
+    "sha256": "ee77dbcba32e81433323fea7259e2004a8961d5e0c5f4f6335c0d8cec0937436",
+    "bytes": 3602,
+    "local_url": "/static/source-assets/ee77dbcba32e81433323fea7.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=SMR+Electrical+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ebc",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:24.966189+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=SMR+Electrical+Services&font=lato",
+    "sha256": "22c227f67b9174f2447553b52bc4f2320f0ea5afed11feeddbefc1501900ca87",
+    "bytes": 9017,
+    "local_url": "/static/source-assets/22c227f67b9174f2447553b5.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Saints+Automotive&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e68",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:25.208002+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Saints+Automotive&font=lato",
+    "sha256": "988120779c99874e7f0d8ec0b8ca544229734cac5855fc3e81e48e6212c13706",
+    "bytes": 7006,
+    "local_url": "/static/source-assets/988120779c99874e7f0d8ec0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sanders+Electric&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ec1",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:25.210551+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sanders+Electric&font=lato",
+    "sha256": "9dc91da261098e1e6bdc50720a04e13d4dff58dce41ef6e1cf389393add78a7a",
+    "bytes": 7005,
+    "local_url": "/static/source-assets/9dc91da261098e1e6bdc5072.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Saras+Cool+Critter+Cuts&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e5d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:25.658471+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Saras+Cool+Critter+Cuts&font=lato",
+    "sha256": "1fd5468c349c35853a6a062a153e0e284c2ea6c70100c8404ff0d2e8ddd57503",
+    "bytes": 9299,
+    "local_url": "/static/source-assets/1fd5468c349c35853a6a062a.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Scentsy+Candles&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f60",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.038570+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Scentsy+Candles&font=lato",
+    "sha256": "c7d76a6432be429b1c2c20729b879d7f0e10cba586b056e12590562393ec7050",
+    "bytes": 7233,
+    "local_url": "/static/source-assets/c7d76a6432be429b1c2c2072.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Scrub+Hub&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ee1",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.074966+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Scrub+Hub&font=lato",
+    "sha256": "fa11b15da3fc669b15d610a3ddd5a4d0dc45ad392613c7365cc9408fb41ccb78",
+    "bytes": 3594,
+    "local_url": "/static/source-assets/fa11b15da3fc669b15d610a3.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/0c2d74ddf_signaturetestimage.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bdde47773321e4c7a5e318",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.134025+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/0c2d74ddf_signaturetestimage.jpg",
+    "sha256": "6e8dc15d8f857e6e27d9f4b02832cdea2fb30861b21445cba29568d4d558cd69",
+    "bytes": 65370,
+    "local_url": "/static/source-assets/6e8dc15d8f857e6e27d9f4b0.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sherman+Steel%0aWelding+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f7e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.141007+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sherman+Steel%0aWelding+Service&font=lato",
+    "sha256": "560beb76bbb633f02b4691baf27ae216900deb0cdef1c960008d8534adfd907b",
+    "bytes": 12262,
+    "local_url": "/static/source-assets/560beb76bbb633f02b4691ba.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Shoestring+Property%0aMaintenance&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eda",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.192615+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Shoestring+Property%0aMaintenance&font=lato",
+    "sha256": "8bd9194c37cb2e74b823abcb7b05ed40bf71d00310987005fe433350ff0ced04",
+    "bytes": 13188,
+    "local_url": "/static/source-assets/8bd9194c37cb2e74b823abcb.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sierra+Benefit+Solutions&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bdee104d4f7592bf3dfacb",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.402569+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sierra+Benefit+Solutions&font=lato",
+    "sha256": "83005a3cd748c5f6c0557099c2aeb9ea4ace739599c3fed1dbd8fce969090a47",
+    "bytes": 9379,
+    "local_url": "/static/source-assets/83005a3cd748c5f6c0557099.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/4a3a9f9f6_IMG_137713.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bc2649416db67fad3d0dbf",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.468650+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/4a3a9f9f6_IMG_137713.jpg",
+    "sha256": "3b3d3fc016e1e40d4af47b4c594d7b701ebee08011a14d09bbdfbdb6641b0b98",
+    "bytes": 5267707,
+    "local_url": "/static/source-assets/3b3d3fc016e1e40d4af47b4c.jpg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/public/6997983814388c257f6b043c/b9eead824_inbound8143868724233593030.jpg",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69a5dfa8723a4bfdd2fce6c2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.575430+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/b9eead824_inbound8143868724233593030.jpg",
+    "sha256": "45361bf7c3e5699dda2180127ebc1d6b0635b8b207b718876c49ac9e0447e68d",
+    "bytes": 4744049,
+    "local_url": "/static/source-assets/45361bf7c3e5699dda218012.jpg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sily+Stickers&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f63",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.619794+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sily+Stickers&font=lato",
+    "sha256": "fb55853e2a297a09af05ea66b6aaa6a0cd20124ed958b4135cf3477c154d80bc",
+    "bytes": 5662,
+    "local_url": "/static/source-assets/fb55853e2a297a09af05ea66.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sindt+Tree+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f74",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.658714+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sindt+Tree+Services&font=lato",
+    "sha256": "488b796ef4740ce39afc9b0f77156ac65e61b45b0af1aea83d7887321b14b4d7",
+    "bytes": 7882,
+    "local_url": "/static/source-assets/488b796ef4740ce39afc9b0f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sky+High+Roofing&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f56",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.696406+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sky+High+Roofing&font=lato",
+    "sha256": "4c8e2666a57abfe2bb9ffff21f93995881aa78e3e45e3065c95285f6e30950e9",
+    "bytes": 6708,
+    "local_url": "/static/source-assets/4c8e2666a57abfe2bb9ffff2.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sky+Insurance+Brokers&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86efe",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.700628+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sky+Insurance+Brokers&font=lato",
+    "sha256": "791887b7b4d288d8d959c9b238216331b61683dd288e450abaeb8caf3e83ee60",
+    "bytes": 8254,
+    "local_url": "/static/source-assets/791887b7b4d288d8d959c9b2.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Smelly+Mel's%0aPlumbing+%26+Septic&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f59",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.834022+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Smelly+Mel's%0aPlumbing+%26+Septic&font=lato",
+    "sha256": "6c186732b7c251f2de2ece97bfb3ffe5cf33c689841e5b5192cdea2fa392379a",
+    "bytes": 11595,
+    "local_url": "/static/source-assets/6c186732b7c251f2de2ece97.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sol+Nisbit+Home+Loans&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f51",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:26.915620+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sol+Nisbit+Home+Loans&font=lato",
+    "sha256": "f1060c166810392414d56f9e64811f54f7e2ada50e34bc71eb0c37d93445f6ba",
+    "bytes": 7559,
+    "local_url": "/static/source-assets/f1060c166810392414d56f9e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Spot+On+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e9e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:27.332574+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Spot+On+Construction&font=lato",
+    "sha256": "5dbf11984da8efad5a6b76b5c97d9d43cab9acbab605b5744adcb5db3faad1b5",
+    "bytes": 7804,
+    "local_url": "/static/source-assets/5dbf11984da8efad5a6b76b5.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/95ef6d6e1_C7D50C84-CF0D-407B-A33C-94805146F079.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bab18e5adb9c1d00cd16b6",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:27.556130+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/95ef6d6e1_C7D50C84-CF0D-407B-A33C-94805146F079.png",
+    "sha256": "3277d29dadc300a0def3d3e9818d346090c99af48882b342334b57ab09568dd6",
+    "bytes": 1418309,
+    "local_url": "/static/source-assets/3277d29dadc300a0def3d3e9.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Stahr+Computers&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e8f",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:27.594724+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Stahr+Computers&font=lato",
+    "sha256": "b99ecd276530c6b8263c1b6e8416f27b923be5dab21417a42ce1e7eba82e8700",
+    "bytes": 6672,
+    "local_url": "/static/source-assets/b99ecd276530c6b8263c1b6e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Star+Brite+Carpet+and%0aTile+Cleaning&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e89",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:27.622120+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Star+Brite+Carpet+and%0aTile+Cleaning&font=lato",
+    "sha256": "ecb739867303e38c8f67901dbeb30af4f1a9ddbf74adec1ca098951fbfffe1bd",
+    "bytes": 13135,
+    "local_url": "/static/source-assets/ecb739867303e38c8f67901d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Strasser+Law&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eca",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:27.825548+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Strasser+Law&font=lato",
+    "sha256": "79cff562d95ceeefccd4a291f95e05f4d5c5fda7bccbe7a3e475627cf60f8584",
+    "bytes": 6017,
+    "local_url": "/static/source-assets/79cff562d95ceeefccd4a291.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sweet+Septic&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f57",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:27.916464+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Sweet+Septic&font=lato",
+    "sha256": "e5541ab64483e584bce9542a240b5ae73451d92269e8889d978a62b6fd709dcc",
+    "bytes": 6125,
+    "local_url": "/static/source-assets/e5541ab64483e584bce9542a.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/1abc9c/ffffff?text=Sweetwater+Rustic",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69b38c4df42c6962700f17c4",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.037194+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/1abc9c/ffffff?text=Sweetwater+Rustic",
+    "sha256": "82b9fb8c2d375a84fc32dd3e60e668bb09850cd5e0f72d3854ba768baf65abdc",
+    "bytes": 7874,
+    "local_url": "/static/source-assets/82b9fb8c2d375a84fc32dd3e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/E5B15D/ffffff?text=Text+Me+Using+This+App+For+FREE+Stuff!&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69b38c4df42c6962700f17c4",
+        "field": "premium_image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.095919+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/E5B15D/ffffff?text=Text+Me+Using+This+App+For+FREE+Stuff!&font=lato",
+    "sha256": "e2d781424bed2694be1abd324453bd5908eca06abf9f7a3f67c21abdbe6b9ca2",
+    "bytes": 10739,
+    "local_url": "/static/source-assets/e2d781424bed2694be1abd32.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Swenson+Construction&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86ea0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.137000+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Swenson+Construction&font=lato",
+    "sha256": "304fc728f9ff7f1569283b22fbe03d7fadc72115fe494a1a5a040eaae98e0e74",
+    "bytes": 8634,
+    "local_url": "/static/source-assets/304fc728f9ff7f1569283b22.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Syndicate+Architects&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bdf00f97071bd9a9c15513",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.184053+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Syndicate+Architects&font=lato",
+    "sha256": "d7575f5e252759a6ecd296c54e5e1311ea887dbbc7744444fd3d1fbce175dcef",
+    "bytes": 8727,
+    "local_url": "/static/source-assets/d7575f5e252759a6ecd296c5.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=TWFG+Insurance&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eff",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.244564+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=TWFG+Insurance&font=lato",
+    "sha256": "655eb56ae6af1e9e1e36cef0bc1f6e11d89f6902986eff74c5ed69b7e9ef0c6f",
+    "bytes": 5128,
+    "local_url": "/static/source-assets/655eb56ae6af1e9e1e36cef0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Teresa+Jolley&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f21",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.348741+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Teresa+Jolley&font=lato",
+    "sha256": "98b87b1daa414e9cfb34f4491e9ed697a02d4ebaf0aa8024dea2e6651c4b56ce",
+    "bytes": 4944,
+    "local_url": "/static/source-assets/98b87b1daa414e9cfb34f449.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Bayley+Barn&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ece",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.396822+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Bayley+Barn&font=lato",
+    "sha256": "ac3fd7f62523c012d7060f14ca202272c0fa59686437e2a359742292cb1cc8bd",
+    "bytes": 5176,
+    "local_url": "/static/source-assets/ac3fd7f62523c012d7060f14.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Cool+Garage&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e67",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.528427+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Cool+Garage&font=lato",
+    "sha256": "d09fc7b557507db5eaacd6c1b47d776bad4ee56395d2f59220b9d7b4008f243c",
+    "bytes": 6660,
+    "local_url": "/static/source-assets/d09fc7b557507db5eaacd6c1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Divide+Kitten+Rescue&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bd8b72d1e80aed2845c84a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.697275+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Divide+Kitten+Rescue&font=lato",
+    "sha256": "e687cbdfeb5f022871f4c2dc6707b65b4d0ac4e0e99526b5cbd96fc7d5e27f1a",
+    "bytes": 8169,
+    "local_url": "/static/source-assets/e687cbdfeb5f022871f4c2dc.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Historic+Cool+Hall&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ecc",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.699608+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Historic+Cool+Hall&font=lato",
+    "sha256": "aac037655f835abde3cb44a33eff6d3d33f874d48aebb60a98c743b404a7eebe",
+    "bytes": 6396,
+    "local_url": "/static/source-assets/aac037655f835abde3cb44a3.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/a2191e753_inbound1461561517689012036.png",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69cf0ef6ad0e014010fd6890",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.766529+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/a2191e753_inbound1461561517689012036.png",
+    "sha256": "b55d041ca6558b16e0da88a97a189a648384c91bde9b4367682e941d1800cdf7",
+    "bytes": 785820,
+    "local_url": "/static/source-assets/b55d041ca6558b16e0da88a9.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Wyatt+Group&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f50",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.769273+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=The+Wyatt+Group&font=lato",
+    "sha256": "64ff2a5fd422d499947a88088cf3f44e80ca1f67a3115a38ba27fbac963959f1",
+    "bytes": 5118,
+    "local_url": "/static/source-assets/64ff2a5fd422d499947a8808.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Thibodeau+Floors&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86eb8",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.843371+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Thibodeau+Floors&font=lato",
+    "sha256": "e1b0a14d7c26886bec53a43dbfc397d647a918043549fb7eac3309f6641051ed",
+    "bytes": 5630,
+    "local_url": "/static/source-assets/e1b0a14d7c26886bec53a43d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Top+Notch+Tree+Service&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f7a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.982576+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Top+Notch+Tree+Service&font=lato",
+    "sha256": "c2bebb7c581825ea7d47a913e1a24dcdd7d3c4665b5117acfbceb323b7706304",
+    "bytes": 7617,
+    "local_url": "/static/source-assets/c2bebb7c581825ea7d47a913.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Tractor+Work&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed8",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:28.987273+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Local+Tractor+Work&font=lato",
+    "sha256": "f466486a831f98021d4fd62c7d6dbbf21e17d5908f5f8dff646ec0535543cdd7",
+    "bytes": 5905,
+    "local_url": "/static/source-assets/f466486a831f98021d4fd62c.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tree+MD&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f78",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.202912+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tree+MD&font=lato",
+    "sha256": "f812b26eeb1a986a2ea17ec422092329ef704a4097516c2f8a21fbba01b86597",
+    "bytes": 2561,
+    "local_url": "/static/source-assets/f812b26eeb1a986a2ea17ec4.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tree+Pro&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f73",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.208571+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tree+Pro&font=lato",
+    "sha256": "9166abf3d3fbfe70c50ae27eedbb0ee55a5e22740d1059f0f4a12f0b11495235",
+    "bytes": 2793,
+    "local_url": "/static/source-assets/9166abf3d3fbfe70c50ae27e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tree+Services&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f7b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.382786+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tree+Services&font=lato",
+    "sha256": "d2c559af23dde139da8e58cf85569d6aa7fef0afe0d0bc09a74ba478fe624fcc",
+    "bytes": 5931,
+    "local_url": "/static/source-assets/d2c559af23dde139da8e58cf.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Trula+Daugherty+Yoga&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef1",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.462697+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Trula+Daugherty+Yoga&font=lato",
+    "sha256": "46f31efee1f4610e1d076b181f5c6f6ddf903b139bfcf7b055d7b45217487eb1",
+    "bytes": 7930,
+    "local_url": "/static/source-assets/46f31efee1f4610e1d076b18.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tyco+Forest+Management&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f6e",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.501826+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Tyco+Forest+Management&font=lato",
+    "sha256": "25857d0fcccbb56305f2f065926e83b97322afa5449c71b75c1ed69f2ed156c9",
+    "bytes": 9038,
+    "local_url": "/static/source-assets/25857d0fcccbb56305f2f065.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Vehicle+Matrix+LLC%0aVegetation+Management&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f10",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.514880+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Vehicle+Matrix+LLC%0aVegetation+Management&font=lato",
+    "sha256": "1d0477bb80136b8a46753bb6c9d2f77d0ca709b237e6efe6756e0526bb747ae0",
+    "bytes": 15535,
+    "local_url": "/static/source-assets/1d0477bb80136b8a46753bb6.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Ventura+Upholstery&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f7d",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.603932+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Ventura+Upholstery&font=lato",
+    "sha256": "282a8a441b7a6c266be6a65e39ee0e3062269919a928a2f3c0d4ee0989321049",
+    "bytes": 6463,
+    "local_url": "/static/source-assets/282a8a441b7a6c266be6a65e.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/008080/ffffff?text=Verigin+Creations%0aEvents+%26+Balloons",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69b6fa431ac178e74615c9b2",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.612470+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/008080/ffffff?text=Verigin+Creations%0aEvents+%26+Balloons",
+    "sha256": "865677006c4ed89e337c279ab6aec36f093e376ff13795fbcfcb205cdb824c35",
+    "bytes": 14023,
+    "local_url": "/static/source-assets/865677006c4ed89e337c279a.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Vision+Auto+Glass&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d1e19ca9d655f86e6b",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.655995+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Vision+Auto+Glass&font=lato",
+    "sha256": "bced6538fb982314eced7ba05978f6a897c0ff10f1b6d97d74be1a0be66e92dc",
+    "bytes": 6680,
+    "local_url": "/static/source-assets/bced6538fb982314eced7ba0.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Warehouse+Paints&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f25",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.741068+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Warehouse+Paints&font=lato",
+    "sha256": "fbc1fbe045fa636ab4550ebf3b1a03143a19caefdbfab9d0cc2523eef1c088cb",
+    "bytes": 7030,
+    "local_url": "/static/source-assets/fbc1fbe045fa636ab4550ebf.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Waterfall+Shire%0aEvent+Venue&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ecd",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.786186+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Waterfall+Shire%0aEvent+Venue&font=lato",
+    "sha256": "525644cf9340d08180740b3f067f01104c486ed5b1cc2d184387cbd4a8c5fd05",
+    "bytes": 9157,
+    "local_url": "/static/source-assets/525644cf9340d08180740b3f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=We+Clean+What+You+Can\u2019t&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bb117d0ef73fc243b77501",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:45:41.697201+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=We+Clean+What+You+Can%E2%80%99t&font=lato",
+    "sha256": "effdf52c33ca5dad205c655f88475b0242a6ec7e29a8134539f6c84263c9453f",
+    "bytes": 7767,
+    "local_url": "/static/source-assets/effdf52c33ca5dad205c655f.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Wedding+Officiate&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ed0",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:29.815973+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Wedding+Officiate&font=lato",
+    "sha256": "7e3f6ae5699b6c89feb9e45d47b19574de7c9be830f6eb50c158856cecb3d61d",
+    "bytes": 7970,
+    "local_url": "/static/source-assets/7e3f6ae5699b6c89feb9e45d.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Western+Tree%0aPreservation&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f76",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:30.023463+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Western+Tree%0aPreservation&font=lato",
+    "sha256": "d397043599999442ac92d3f7b777fe6c225a9f3bfa482f14b4458252f55a7dd6",
+    "bytes": 10173,
+    "local_url": "/static/source-assets/d397043599999442ac92d3f7.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Whiskey+Business%0aCustom+Cookies&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86edc",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:30.044295+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Whiskey+Business%0aCustom+Cookies&font=lato",
+    "sha256": "dbc51bf05b3e52ac1547b67b1deef77fcd8200de9ab830075cb9aeb1f675dcf2",
+    "bytes": 13790,
+    "local_url": "/static/source-assets/dbc51bf05b3e52ac1547b67b.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Wright-Fitness&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86ef4",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:30.123874+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Wright-Fitness&font=lato",
+    "sha256": "4f9d19eb6147abbb96c4b0cd28f2532d0f07686bd4439cb0838938a96b57006f",
+    "bytes": 6119,
+    "local_url": "/static/source-assets/4f9d19eb6147abbb96c4b0cd.svg"
+  },
+  {
+    "source_url": "https://base44.app/api/apps/6997983814388c257f6b043c/files/mp/public/6997983814388c257f6b043c/fd84f8547_LogoBrandingBrandLogotypeYogaBeautyStudio-2.PNG",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "69bb70ca806d75bfd300b353",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:30.183892+00:00",
+    "status": 200,
+    "content_type": "image/png",
+    "resolved_url": "https://media.base44.com/images/public/6997983814388c257f6b043c/fd84f8547_LogoBrandingBrandLogotypeYogaBeautyStudio-2.PNG",
+    "sha256": "2919adb58d8ae974cd4d41aff7c8b8e6d5f74ad65519d73c2022a4b68f6fbdaa",
+    "bytes": 386801,
+    "local_url": "/static/source-assets/2919adb58d8ae974cd4d41af.png"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Yours+%26+Mine+Photography&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f2a",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:30.304966+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Yours+%26+Mine+Photography&font=lato",
+    "sha256": "a472fe9115717e80240bdfd123262be375457a94a6630b9f15b6a9f90787a2a2",
+    "bytes": 9151,
+    "local_url": "/static/source-assets/a472fe9115717e80240bdfd1.svg"
+  },
+  {
+    "source_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Zak+Fissel&font=lato",
+    "references": [
+      {
+        "entity": "Businesses",
+        "id": "699798d2e19ca9d655f86f82",
+        "field": "image_url"
+      }
+    ],
+    "retrieved_at": "2026-11-05T14:43:30.413342+00:00",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "resolved_url": "https://placehold.co/1200x480/a7c4a0/ffffff?text=Zak+Fissel&font=lato",
+    "sha256": "e89920eaae56617cd2ef9ad33f3c827044d1a5d43effcde1b0bab962c5b143f8",
+    "bytes": 4079,
+    "local_url": "/static/source-assets/e89920eaae56617cd2ef9ad3.svg"
+  }
+]

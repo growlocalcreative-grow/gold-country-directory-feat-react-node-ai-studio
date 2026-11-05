@@ -1,0 +1,23 @@
+{
+  "format": "gold-country-directory-public-v1",
+  "notes": "Client-maintained updates layered over the preserved public seed (data/public-seed.json, which stays byte-for-byte unchanged). Records are matched by original source ID and re-applied only when this file changes, so later administrator or owner edits survive seed runs. Fields follow the public import format documented in docs/roadmap-to-live.md.",
+  "updated_at": "2026-11-05",
+  "Businesses": [
+    {
+      "id": "69a14ac00c472525c8f82f57",
+      "business_name": "Cold Start Lab",
+      "category": "Software and Hardware Solutions",
+      "contact_person": "Brian Andrus",
+      "city": "Cool",
+      "phones": "(530) 919-6781",
+      "email": "hello@coldstartlab.com",
+      "website": "https://coldstartlab.com",
+      "services_specialties": "Websites that help your business work better. Cold Start Lab builds fast, custom websites and connected business tools for small businesses: marketing sites, client portals and dashboards, online stores, inquiry routing and follow-up automation, and ongoing support. You work directly with Brian Andrus, who brings more than 20 years of hands-on technology experience, uses AI only where it fits the task, and hands off fully documented work that you own. Focused on websites, online stores, integrations and automation rather than PC repair or general IT support. Serving the Georgetown Divide, El Dorado County, Placer County and the greater Sacramento area, with remote projects welcome nationwide. Projects of any budget are welcome, with a clear estimate before work begins.",
+      "image_url": "/static/images/cold-start-lab.svg",
+      "claim_status": "approved",
+      "status": "approved",
+      "is_featured": false,
+      "created_date": "2026-02-27T07:41:52.116000"
+    }
+  ]
+}

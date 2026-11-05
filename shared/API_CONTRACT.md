@@ -1,0 +1,25 @@
+# React/Node API contract
+
+All same-origin `/api`; JSON success bodies directly (no `data` wrapper). Errors `{error:{code,message,fields?}}` (400 validation, 401 auth, 403 permission/CSRF, 404 missing, 409 conflict, 503 unavailable). API accepts snake_case field names. Mutations require `X-CSRF-Token` from `GET /api/session`, `credentials: same-origin`; login/signup rotate session and return fresh Session. Cookie HttpOnly/SameSite=Lax; never store auth tokens in browser storage.
+
+- `GET /api/session` → Session (`shared/types.ts`). `POST /api/auth/signup` `{email,password,password_confirm?,first_name?,last_name?}` → Session (201); `POST /api/auth/login` `{email,password}` → Session; `POST /api/auth/logout` → Session. `POST /api/auth/password-reset` `{email}` → `{message}` neutral. `POST /api/auth/password-reset/confirm` `{token,password,password_confirm?}` → Session plus `{message}` (rotates session and CSRF). `POST /api/auth/password-change` `{current_password,password,password_confirm?}` → Session. `POST /api/auth/google/start` (CSRF required) returns `{url}` for configured OAuth; callback server owned; absent config 503.
+- `GET /api/home` → `{stats:{businesses,categories},categories,popular_categories,recent_businesses,featured_businesses,recent_reviews}`.
+- `GET /api/categories` → `{categories,popular_categories}`.
+- `GET /api/businesses?q=&category=&location=&sort=name&page=1` → DirectoryResponse. category accepts name or slug. Default page_size 24; `page_size=all` returns all with category_groups, useful grouped source layout; maximum numeric 100.
+- `GET /api/businesses/by-source/:sourceId` → `{business}` (legacy link lookup).
+- `GET /api/businesses/:slug` → `{business,reviews,related_businesses,is_favorite,can_edit}` approved only.
+- `POST /api/businesses` public permitted → `{business,message}` 201 pending. BusinessInput + optional image upload key from endpoint below. Duplicate match → 409 `{error,duplicates}`; retry `confirm_separate:true`.
+- `GET /api/account` → `{businesses,pending_claims,favorites,my_reviews,submissions}`. `GET /api/account/businesses/:id` → `{business}` edit actor only. `PATCH /api/account/businesses/:id` BusinessInput → `{business,message}`; owner edit goes pending; pending submitter can edit; staff may edit all.
+- `GET /api/favorites` → DirectoryResponse (same filtering params); `POST /api/businesses/:slug/favorite` `{}` → `{favorite:boolean}` toggles.
+- `POST /api/businesses/:slug/reviews` `{display_name,rating,body}` → `{review,message}` pending; account required, owner prohibited.
+- `POST /api/businesses/:slug/claims` `{evidence,phone?}` → `{claim,message}` pending; account required; never immediate ownership.
+- `POST /api/businesses/:slug/suggestions` `{kind:'edit'|'remove'|'merge',name,email,message,company_website?:''}` → `{message,id}`. Public permitted.
+- `POST /api/suggestions/url` `{source_url,name,email,message,company_website?:''}` → `{message,id}`. Public permitted; queued only.
+- `POST /api/contact` `{name,email,subject,message,company_website?:''}` → `{message,id}`.
+- `POST /api/uploads` multipart `image` (<=5MB JPEG/PNG/WebP) → `{key,url}`; CSRF header required. Sanitized decoded/re-encoded JPEG <=2000px; opaque key to BusinessInput `image`.
+- `POST /api/scan-card` → 503 manual entry fallback (no OCR requirement). `POST /api/account/extract-url` `{source_url}` staff only → `{draft,message}`; bounded safe public metadata import, manual review required.
+- `GET /api/admin` staff → `{businesses,claims,reviews,suggestions,contacts,users,stats}` moderation queues (include approved/rejected for visibility). `POST /api/admin/:kind/:id/moderate` kind `businesses|reviews|claims|suggestions|contacts`, `{status:'approved'|'rejected',admin_notes?}` (contacts accepts `{resolved:true}`); claims approvals require `{ownership_verified:true}` explicit checkbox; conflict-safe.
+- `GET /api/admin/export` staff downloads JSON portable public-approved-only export (no private queues, evidence, source_data, passwords, tokens or sessions); `POST /api/admin/import` `{payload:<public seed or portable export>}` staff safe idempotent source mapping (never creates owners/accounts from untrusted imports).
+- `/healthz` JSON DB readiness. Static retained `/static/*`, uploaded `/media/businesses/<uuid>.jpg`. React browser routes keep `/Home`, `/Directory`, `/business/:slug`, `/BusinessDetails?id=...`, `/SuggestBusiness`, `/AddByUrl`, `/MyFaves`, `/About`, `/Contact`, `/Privacy`, `/account/`, `/account/business/:id/edit/`, `/accounts/login/`, `/accounts/signup/`, `/accounts/password_reset/`, `/accounts/reset/:token/`, `/accounts/password_change/`, `/AdminDashboard`, `/admin/`.
+
+Admin account created ONLY explicitly via CLI `npm run admin -- --email <email>` (password via env ADMIN_PASSWORD); no seeded admin/password. `npm run dev` launches one Express port (3000 default) with Vite middleware. Production `npm run build && npm start`. React, React Router, lucide-react dependencies included; Vite React plugin available. No backend dependencies on Python, AI Studio, Base44, Gemini or Tesseract.
